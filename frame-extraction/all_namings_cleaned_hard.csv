@@ -1,0 +1,1030 @@
+child_id,time,utterance_orig,txt_label_orig,img_label_orig,n_objs,mat_label_orig,ball_cluster,zem_cluster,rand,txt_label,img_label,mat_label,utterance
+XS_0801,2,you're patting that ball.,ball,zem,1,FALSE,,0,0.51593763,ball,zem,FALSE,you're patting that ball.
+XS_0801,302.1,that's a tima.,tima,brush,2,FALSE,,,0.949664346,tima,brush,FALSE,that's a tima.
+XS_0801,302.1,that's a tima.,tima,tima,2,TRUE,,,0.348759091,tima,tima,TRUE,that's a tima.
+XS_0801,328.1,brush.,brush,brush,2,TRUE,,,0.69836572,brush,brush,TRUE,brush.
+XS_0801,328.1,brush.,brush,tima,2,FALSE,,,0.678056364,brush,tima,FALSE,brush.
+XS_0801,330,against the tima.,tima,tima,1,TRUE,,,0.3453792,tima,tima,TRUE,against the tima.
+XS_0801,456.9,tima,tima,tima,1,TRUE,,,0.708202629,tima,tima,TRUE,tima
+XS_0805,223.8,is that a ball?,ball,zem,1,FALSE,,0,0.771202604,ball,zem,FALSE,is that a ball?
+XS_0805,243.3,say ball.,ball,ball,1,TRUE,1,,0.080107311,wug,wug,TRUE,say wug.
+XS_0805,251.3,the ball rolled away.,ball,ball,1,TRUE,1,,0.224903138,wug,wug,TRUE,the wug rolled away.
+XS_0805,253.9,the ball rolled away.,ball,ball,1,TRUE,1,,0.808931998,ball,wug,FALSE,the ball rolled away.
+XS_0805,282.5,want to see the brush?,brush,brush,1,TRUE,,,0.643228321,brush,brush,TRUE,want to see the brush?
+XS_0805,640.7,can you get the ball?,ball,ball,1,TRUE,1,,0.265755627,wug,wug,TRUE,can you get the wug?
+XS_0805,740.2,where's the ball?,ball,ball,1,TRUE,1,,0.073375317,wug,wug,TRUE,where's the wug?
+XS_0805,741.6,can you get the ball?,ball,ball,1,TRUE,1,,0.35807221,wug,wug,TRUE,can you get the wug?
+XS_0805,748.9,can you get the ball?,ball,ball,1,TRUE,1,,0.558401116,wug,wug,TRUE,can you get the wug?
+XS_0805,790,you want a brush?,brush,brush,1,TRUE,,,0.362523274,brush,brush,TRUE,you want a brush?
+XS_0805,861.9,where's the ball?,ball,ball,1,TRUE,1,,0.29636651,wug,wug,TRUE,where's the wug?
+XS_0805,863.3,where's the ball?,ball,ball,1,TRUE,1,,0.230145254,wug,wug,TRUE,where's the wug?
+XS_0805,867.5,where's the ball?,ball,ball,1,TRUE,1,,0.733350944,wug,wug,TRUE,where's the wug?
+XS_0805,868.2,can you get the ball?,ball,ball,1,TRUE,1,,0.371356701,wug,wug,TRUE,can you get the wug?
+XS_0807,53.6,can you bounce the ball?,ball,ball,1,TRUE,1,,0.031428248,wug,wug,TRUE,can you bounce the wug?
+XS_0807,156.3,or do you like the the manu?,manu,manu,1,TRUE,,,0.693579804,manu,manu,TRUE,or do you like the the manu?
+XS_0807,158.4,you like the manu?,manu,manu,1,TRUE,,,0.171799893,manu,manu,TRUE,you like the manu?
+XS_0807,357.6,tima.,tima,tima,1,TRUE,,,0.245074937,tima,tima,TRUE,tima.
+XS_0807,504.1,you see the tima?,tima,tima,1,TRUE,,,0.229008951,tima,tima,TRUE,you see the tima?
+XS_0807,505.7,and you're chewing on the brush there.,brush,tima,1,FALSE,,,0.748878096,brush,tima,FALSE,and you're chewing on the brush there.
+XS_0807,650.6,let's put the tima and the zem or the brush away.,zem,brush,1,FALSE,,,0.965603139,zem,brush,FALSE,let's put the tima and the zem or the brush away.
+XS_0807,653.7,you want to try the ball and the zem again?,ball,ball,2,TRUE,1,,0.366442373,wug,wug,TRUE,you want to try the wug and the zem again?
+XS_0807,653.7,you want to try the ball and the zem again?,ball,zem,2,FALSE,,1,0.042475943,ball,blicket,FALSE,you want to try the ball and the zem again?
+XS_0807,730,here's the ball.,ball,ball,1,TRUE,1,,0.835243155,ball,wug,FALSE,here's the ball.
+XS_0807,773.1,you want the zem?,zem,zem,1,TRUE,,0,0.83960442,blicket,zem,FALSE,you want the blicket?
+XS_0811,81.7,see the car driving on mommy.,car,car,1,TRUE,,,0.855279245,car,car,TRUE,see the car driving on mommy.
+XS_0811,254.6,car.,car,car,1,TRUE,,,0.013012499,car,car,TRUE,car.
+XS_0811,257.1,wanna drive the car again?,car,car,1,TRUE,,,0.791356921,car,car,TRUE,wanna drive the car again?
+XS_0811,307.2,wanna play ball?,ball,zem,1,FALSE,,1,0.210855852,ball,blicket,FALSE,wanna play ball?
+XS_0811,365.7,should we put the ball on top?,ball,ball,1,TRUE,0,,0.902778325,wug,ball,FALSE,should we put the wug on top?
+XS_0811,403.5,the ball?,ball,ball,1,TRUE,0,,0.900646974,wug,ball,FALSE,the wug?
+XS_0811,525.5,ball.,ball,ball,1,TRUE,1,,0.876255216,ball,wug,FALSE,ball.
+XS_0811,569.4,you wanna play with the ball?,ball,ball,1,TRUE,1,,0.146139262,wug,wug,TRUE,you wanna play with the wug?
+XS_0814,19,we've got a zem.,zem,zem,1,TRUE,,1,0.165389752,blicket,blicket,TRUE,we've got a blicket.
+XS_0814,28,you want the ball?,ball,ball,1,TRUE,0,,0.645259683,ball,ball,TRUE,you want the ball?
+XS_0814,44,there's the purple ball.,ball,zem,1,FALSE,,1,0.887147439,ball,blicket,FALSE,there's the purple ball.
+XS_0814,45,or the yellow zem?,zem,zem,1,TRUE,,1,0.936131437,zem,blicket,FALSE,or the yellow zem?
+XS_0814,67,you figured out how to grab the ball but not the zem?,ball,ball,1,TRUE,1,,0.801996509,ball,wug,FALSE,you figured out how to grab the ball but not the zem?
+XS_0814,68,you figured out how to grab the ball but not the zem?,zem,ball,1,FALSE,0,,0.834050104,zem,ball,FALSE,you figured out how to grab the ball but not the zem?
+XS_0814,103,how about the zem?,zem,zem,1,TRUE,,1,0.195619395,blicket,blicket,TRUE,how about the blicket?
+XS_0814,110,do you like the zem?,zem,zem,1,TRUE,,1,0.90025455,zem,blicket,FALSE,do you like the zem?
+XS_0814,111,do you like the zem?,zem,zem,1,TRUE,,1,0.612518425,blicket,blicket,TRUE,do you like the blicket?
+XS_0814,161,yeah that's the ball.,ball,zem,1,FALSE,,1,0.112136713,ball,blicket,FALSE,yeah that's the ball.
+XS_0814,164,where'd the zem go?,zem,zem,1,TRUE,,1,0.36894943,blicket,blicket,TRUE,where'd the blicket go?
+XS_0814,180,you like that ball.,ball,zem,1,FALSE,,1,0.623054412,ball,blicket,FALSE,you like that ball.
+XS_0814,204,that's a pretty cool manu.,manu,car,1,FALSE,,,0.858658113,manu,car,FALSE,that's a pretty cool manu.
+XS_0814,215,but it's a manu.,manu,car,1,FALSE,,,0.842583921,manu,car,FALSE,but it's a manu.
+XS_0814,226,the manu looks like [xxx].,manu,car,1,FALSE,,,0.559886974,manu,car,FALSE,the manu looks like [xxx].
+XS_0814,227,tasty manu tasty manu.,manu,car,1,FALSE,,,0.141950897,manu,car,FALSE,tasty manu tasty manu.
+XS_0814,452,are you done with the manu and the car?,manu,manu,1,TRUE,,,0.281429363,manu,manu,TRUE,are you done with the manu and the car?
+XS_0814,453,are you done with the manu and the car?,car,manu,1,FALSE,,,0.625219703,car,manu,FALSE,are you done with the manu and the car?
+XS_0814,521,you just want the manu for its handle.,manu,car,1,FALSE,,,0.450880013,manu,car,FALSE,you just want the manu for its handle.
+XS_0814,544,is the manu more fun than the car?,manu,car,1,FALSE,,,0.180712011,manu,car,FALSE,is the manu more fun than the car?
+XS_0814,545,is the manu more fun than the car?,car,car,1,TRUE,,,0.722111741,car,car,TRUE,is the manu more fun than the car?
+XS_0814,599,you don't want the car hm?,car,car,1,TRUE,,,0.157383439,car,car,TRUE,you don't want the car hm?
+XS_0814,621,you were chewing on the wheels of the car.,car,car,1,TRUE,,,0.804467224,car,car,TRUE,you were chewing on the wheels of the car.
+XS_0814,642,you got your manu.,manu,car,1,FALSE,,,0.937058224,manu,car,FALSE,you got your manu.
+XS_0814,644,you got your manu.,manu,car,1,FALSE,,,0.503597717,manu,car,FALSE,you got your manu.
+XS_0814,646,manumanumanu.,manu,car,3,FALSE,,,0.473654942,manu,car,FALSE,manumanumanu.
+XS_0814,882,look at the tima.,tima,tima,1,TRUE,,,0.126278009,tima,tima,TRUE,look at the tima.
+XS_0814,883,and here's a brush a giant brush.,brush,tima,1,FALSE,,,0.359130773,brush,tima,FALSE,and here's a brush a giant brush.
+XS_0814,884,and here's a brush a giant brush.,brush,tima,1,FALSE,,,0.490441542,brush,tima,FALSE,and here's a brush a giant brush.
+XS_0815,201.5,byebye zem.,zem,zem,1,TRUE,,1,0.592970661,blicket,blicket,TRUE,byebye blicket.
+XS_0815,493.9,a brush.,brush,brush,1,TRUE,,,0.168577991,brush,brush,TRUE,a brush.
+XS_0815,499.1,tima.,tima,tima,1,TRUE,,,0.236804137,tima,tima,TRUE,tima.
+XS_0815,567.7,can I have the brush?,brush,brush,1,TRUE,,,0.372933529,brush,brush,TRUE,can I have the brush?
+XS_0815,896.2,ball.,ball,ball,1,TRUE,1,,0.776394026,wug,wug,TRUE,wug.
+XS_0815,897.6,zem.,zem,zem,1,TRUE,,1,0.43274,blicket,blicket,TRUE,blicket.
+XS_0815,1115.4,go get zem.,zem,ball,2,FALSE,1,,0.923321401,zem,wug,FALSE,go get zem.
+XS_0815,1115.4,go get zem.,zem,zem,2,TRUE,,1,0.109550059,blicket,blicket,TRUE,go get blicket.
+XS_0819,35.3,zem.,zem,zem,1,TRUE,,0,0.091461896,zem,zem,TRUE,zem.
+XS_0819,135.4,do you like the brush too?,brush,brush,2,TRUE,,,0.189644137,brush,brush,TRUE,do you like the brush too?
+XS_0819,135.4,do you like the brush too?,brush,tima,2,FALSE,,,0.429616807,brush,tima,FALSE,do you like the brush too?
+XS_0819,136.6,brush brush brush.,brush,brush,1,TRUE,,,0.196249988,brush,brush,TRUE,brush brush brush.
+XS_0819,139,brush brush brush brush.,brush,tima,1,FALSE,,,0.603234733,brush,tima,FALSE,brush brush brush brush.
+XS_0819,139.4,brush brush brush brush.,brush,tima,1,FALSE,,,0.628672391,brush,tima,FALSE,brush brush brush brush.
+XS_0819,139.8,brush brush brush brush.,brush,tima,1,FALSE,,,0.086035395,brush,tima,FALSE,brush brush brush brush.
+XS_0819,140.2,brush brush brush brush.,brush,tima,1,FALSE,,,0.756877314,brush,tima,FALSE,brush brush brush brush.
+XS_0819,146.8,brush brush brush.,brush,brush,2,TRUE,,,0.992521465,brush,brush,TRUE,brush brush brush.
+XS_0819,146.8,brush brush brush.,brush,tima,2,FALSE,,,0.277169626,brush,tima,FALSE,brush brush brush.
+XS_0819,147.4,brush brush brush.,brush,brush,1,TRUE,,,0.786600499,brush,brush,TRUE,brush brush brush.
+XS_0819,147.8,brush brush brush.,brush,brush,1,TRUE,,,0.944774829,brush,brush,TRUE,brush brush brush.
+XS_0819,148.1,brush brush.,brush,brush,1,TRUE,,,0.560676614,brush,brush,TRUE,brush brush.
+XS_0819,148.7,brush brush.,brush,brush,1,TRUE,,,0.335889264,brush,brush,TRUE,brush brush.
+XS_0819,210.1,look at the tima.,tima,ball,1,FALSE,0,,0.644751787,tima,ball,FALSE,look at the tima.
+XS_0819,233,car.,car,car,1,TRUE,,,0.230785707,car,car,TRUE,car.
+XS_0819,234.6,do you want to zoom car?,car,car,1,TRUE,,,0.566012073,car,car,TRUE,do you want to zoom car?
+XS_0819,273,car vroom.,car,car,1,TRUE,,,0.555286857,car,car,TRUE,car vroom.
+XS_0819,468.2,ball.,ball,ball,1,TRUE,0,,0.668053158,ball,ball,TRUE,ball.
+XS_0819,566.2,brush car?,car,car,1,TRUE,,,0.683226024,car,car,TRUE,brush car?
+XS_0819,572,brush car?,car,brush,2,FALSE,,,0.826779534,car,brush,FALSE,brush car?
+XS_0819,572,brush car?,car,car,2,TRUE,,,0.493428819,car,car,TRUE,brush car?
+XS_0819,629.5,manu.,manu,manu,1,TRUE,,,0.203430399,manu,manu,TRUE,manu.
+XS_0819,648.5,tima.,tima,tima,1,TRUE,,,0.623121704,tima,tima,TRUE,tima.
+XS_0819,879.6,we like the car huh?,car,manu,1,FALSE,,,0.21578921,car,manu,FALSE,we like the car huh?
+XS_0819,890.4,brush.,brush,brush,1,TRUE,,,0.139356039,brush,brush,TRUE,brush.
+XS_0819,892.6,brush.,brush,brush,1,TRUE,,,0.414105369,brush,brush,TRUE,brush.
+XS_0819,910.1,brush.,brush,manu,1,FALSE,,,0.975797706,brush,manu,FALSE,brush.
+XS_0821,5.6,look at the ball.,ball,ball,1,TRUE,0,,0.783129003,ball,ball,TRUE,look at the ball.
+XS_0821,53.8,ooh car.,car,car,1,TRUE,,,0.472490336,car,car,TRUE,ooh car.
+XS_0821,79.4,it's a happy car.,car,car,1,TRUE,,,0.933072363,car,car,TRUE,it's a happy car.
+XS_0821,137.5,it's a zem.,zem,zem,1,TRUE,,0,0.483956378,zem,zem,TRUE,it's a zem.
+XS_0821,150.3,zem.,zem,zem,1,TRUE,,0,0.734158148,zem,zem,TRUE,zem.
+XS_0821,176.8,zem.,zem,zem,1,TRUE,,0,0.725252767,zem,zem,TRUE,zem.
+XS_0821,190.4,it's manu.,manu,manu,1,TRUE,,,0.629965194,manu,manu,TRUE,it's manu.
+XS_0821,194,[xxx] what do you think of the manu?,manu,manu,1,TRUE,,,0.701251852,manu,manu,TRUE,[xxx] what do you think of the manu?
+XS_0821,208.7,do you like the manu?,manu,manu,1,TRUE,,,0.945507459,manu,manu,TRUE,do you like the manu?
+XS_0821,253.1,brush.,brush,brush,1,TRUE,,,0.600218937,brush,brush,TRUE,brush.
+XS_0821,256.7,brush.,brush,brush,1,TRUE,,,0.98435264,brush,brush,TRUE,brush.
+XS_0821,276.4,the brush.,brush,brush,1,TRUE,,,0.136602051,brush,brush,TRUE,the brush.
+XS_0821,326.7,this is a tima.,tima,tima,1,TRUE,,,0.005571341,tima,tima,TRUE,this is a tima.
+XS_0821,328,do you like the tima?,tima,tima,1,TRUE,,,0.230705531,tima,tima,TRUE,do you like the tima?
+XS_0821,333.8,tima's good.,tima,tima,1,TRUE,,,0.961124973,tima,tima,TRUE,tima's good.
+XS_0821,343,let's look at the tima.,tima,tima,1,TRUE,,,0.089745951,tima,tima,TRUE,let's look at the tima.
+XS_0821,384.2,you like zem?,zem,zem,1,TRUE,,0,0.341588985,zem,zem,TRUE,you like zem?
+XS_0821,423.6,ball.,ball,ball,3,TRUE,0,,0.882788028,wug,ball,FALSE,wug.
+XS_0821,423.6,ball.,ball,tima,3,FALSE,,,0.414784413,ball,tima,FALSE,ball.
+XS_0821,423.6,ball.,ball,zem,3,FALSE,,0,0.430436661,ball,zem,FALSE,ball.
+XS_0821,441.9,tima.,tima,car,1,FALSE,,,0.289501589,tima,car,FALSE,tima.
+XS_0821,499.1,you like the ball.,ball,ball,2,TRUE,0,,0.060815934,ball,ball,TRUE,you like the ball.
+XS_0821,499.1,you like the ball.,ball,zem,2,FALSE,,0,0.195073045,ball,zem,FALSE,you like the ball.
+XS_0821,558.8,it keeps getting away from you that ball isn't it?,ball,brush,1,FALSE,,,0.278448523,ball,brush,FALSE,it keeps getting away from you that ball isn't it?
+XS_0821,607.3,the brush.,brush,manu,1,FALSE,,,0.265517857,brush,manu,FALSE,the brush.
+XS_0821,641,and you got a manu.,manu,tima,1,FALSE,,,0.768351708,manu,tima,FALSE,and you got a manu.
+XS_0821,738,can you turn the manu.,manu,zem,1,FALSE,,0,0.417919058,manu,zem,FALSE,can you turn the manu.
+XS_0821,776.9,that manu sooky.,manu,zem,1,FALSE,,0,0.872784254,manu,zem,FALSE,that manu sooky.
+XS_0821,804,and then zem tickled your toes and tickle your nose.,zem,tima,1,FALSE,,,0.913574036,zem,tima,FALSE,and then zem tickled your toes and tickle your nose.
+XS_0821,847.9,ah back to the tima.,tima,tima,1,TRUE,,,0.488830839,tima,tima,TRUE,ah back to the tima.
+XS_0822,25,this one is a zem.,zem,zem,1,TRUE,,1,0.344851475,blicket,blicket,TRUE,this one is a blicket.
+XS_0822,26.7,zem.,zem,zem,1,TRUE,,1,0.48499427,blicket,blicket,TRUE,blicket.
+XS_0822,35.3,can you get the zem?,zem,zem,1,TRUE,,1,0.576157905,blicket,blicket,TRUE,can you get the blicket?
+XS_0822,87.3,how about I take this brush and do ball.,brush,brush,1,TRUE,,,0.345480885,brush,brush,TRUE,how about I take this brush and do ball.
+XS_0822,90.5,how about I take this brush and do ball.,ball,brush,1,FALSE,,,0.318224372,ball,brush,FALSE,how about I take this brush and do ball.
+XS_0822,119.5,this is a tima.,tima,tima,1,TRUE,,,0.129614778,tima,tima,TRUE,this is a tima.
+XS_0822,256.9,you don't want to give up the brush.,brush,tima,1,FALSE,,,0.499805372,brush,tima,FALSE,you don't want to give up the brush.
+XS_0822,277.1,oh you want the brush back.,brush,brush,1,TRUE,,,0.803923413,brush,brush,TRUE,oh you want the brush back.
+XS_0822,351,I like manus don't you?,manu,manu,1,TRUE,,,0.334049623,manu,manu,TRUE,I like manus don't you?
+XS_0822,524.1,how about this ball?,ball,ball,1,TRUE,1,,0.448731606,wug,wug,TRUE,how about this wug?
+XS_0822,525.8,would you like the ball?,ball,ball,1,TRUE,1,,0.788025484,wug,wug,TRUE,would you like the wug?
+XS_0822,533.7,go get that ball.,ball,ball,1,TRUE,0,,0.498940597,ball,ball,TRUE,go get that ball.
+XS_0822,535,go get that ball.,ball,ball,1,TRUE,1,,0.808487772,ball,wug,FALSE,go get that ball.
+XS_0822,542,purple ball.,ball,ball,1,TRUE,1,,0.245112645,wug,wug,TRUE,purple wug.
+XS_0822,635.6,you know daddy would want you to use that brush as a hockey stick.,brush,ball,1,FALSE,0,,0.576574139,brush,ball,FALSE,you know daddy would want you to use that brush as a hockey stick.
+XS_0822,681.2,all right let's grab let's grab this tima again.,tima,tima,1,TRUE,,,0.246711186,tima,tima,TRUE,all right let's grab let's grab this tima again.
+XS_0822,741,[xxx] you like that brush.,brush,tima,1,FALSE,,,0.398197854,brush,tima,FALSE,[xxx] you like that brush.
+XS_0822,844.8,you put the manu in the tima spot though.,manu,tima,1,FALSE,,,0.613696447,manu,tima,FALSE,you put the manu in the tima spot though.
+XS_0822,845.6,you put the manu in the tima spot though.,tima,tima,1,TRUE,,,0.594767989,tima,tima,TRUE,you put the manu in the tima spot though.
+XS_0822,851.5,put that tima back.,tima,tima,1,TRUE,,,0.958173931,tima,tima,TRUE,put that tima back.
+XS_0822,908,where'd the ball go?,ball,ball,1,TRUE,1,,0.395178155,wug,wug,TRUE,where'd the wug go?
+XS_0822,909.7,your purple ball.,ball,ball,1,TRUE,1,,0.440888107,wug,wug,TRUE,your purple wug.
+XS_0822,914,can you go get that purple ball?,ball,ball,1,TRUE,1,,0.405537765,wug,wug,TRUE,can you go get that purple wug?
+XS_0822,915.7,Grayden go get the purple ball.,ball,ball,1,TRUE,1,,0.019326134,wug,wug,TRUE,Grayden go get the purple wug.
+XS_0825,4.4,here's a ball.,ball,ball,1,TRUE,0,,0.576848667,ball,ball,TRUE,here's a ball.
+XS_0825,6.4,see the ball.,ball,ball,1,TRUE,0,,0.332933149,ball,ball,TRUE,see the ball.
+XS_0825,8.9,lift the ball.,ball,ball,1,TRUE,1,,0.305024841,wug,wug,TRUE,lift the wug.
+XS_0825,18.1,do you like that ball?,ball,ball,1,TRUE,1,,0.033573927,wug,wug,TRUE,do you like that wug?
+XS_0825,29.3,get the ball.,ball,ball,1,TRUE,0,,0.963001212,wug,ball,FALSE,get the wug.
+XS_0825,41.1,is that a good ball?,ball,ball,1,TRUE,1,,0.620184077,wug,wug,TRUE,is that a good wug?
+XS_0825,59.7,can you roll the ball?,ball,ball,1,TRUE,0,,0.620324708,ball,ball,TRUE,can you roll the ball?
+XS_0825,71.9,oh where's the ball?,ball,ball,1,TRUE,0,,0.498231757,ball,ball,TRUE,oh where's the ball?
+XS_0825,72.7,where's the ball?,ball,ball,1,TRUE,0,,0.495753937,ball,ball,TRUE,where's the ball?
+XS_0825,76.6,mommy gets the ball for Daphne.,ball,ball,1,TRUE,0,,0.09542574,ball,ball,TRUE,mommy gets the ball for Daphne.
+XS_0825,78.7,here's the ball.,ball,ball,1,TRUE,0,,0.130960236,ball,ball,TRUE,here's the ball.
+XS_0825,89.4,that's a ball.,ball,ball,1,TRUE,0,,0.677337623,ball,ball,TRUE,that's a ball.
+XS_0825,91.3,look at the zem ooh.,zem,ball,2,FALSE,0,,0.91662281,zem,ball,FALSE,look at the zem ooh.
+XS_0825,91.3,look at the zem ooh.,zem,zem,2,TRUE,,0,0.113333807,zem,zem,TRUE,look at the zem ooh.
+XS_0825,98.2,[xxx] go the zem.,zem,ball,2,FALSE,0,,0.409759355,zem,ball,FALSE,[xxx] go the zem.
+XS_0825,98.2,[xxx] go the zem.,zem,zem,2,TRUE,,0,0.103736588,zem,zem,TRUE,[xxx] go the zem.
+XS_0825,102.1,oh you like the ball better?,ball,ball,1,TRUE,0,,0.353652734,ball,ball,TRUE,oh you like the ball better?
+XS_0825,139.9,that ball's purple.,ball,zem,1,FALSE,,0,0.737722994,ball,zem,FALSE,that ball's purple.
+XS_0825,150.7,ah ball.,ball,zem,1,FALSE,,0,0.299514657,ball,zem,FALSE,ah ball.
+XS_0825,153.6,mommy's going to play with the zem.,zem,zem,1,TRUE,,0,0.175627149,zem,zem,TRUE,mommy's going to play with the zem.
+XS_0825,156,I like a zem.,zem,zem,1,TRUE,,0,0.423571891,zem,zem,TRUE,I like a zem.
+XS_0825,158.7,I like the zem.,zem,zem,1,TRUE,,0,0.095313252,zem,zem,TRUE,I like the zem.
+XS_0825,163,ooh I love the zem.,zem,zem,1,TRUE,,0,0.057480673,zem,zem,TRUE,ooh I love the zem.
+XS_0825,165.8,mommy likes a zem.,zem,zem,1,TRUE,,0,0.612954783,zem,zem,TRUE,mommy likes a zem.
+XS_0825,168.3,put the zem on the ball.,zem,zem,1,TRUE,,0,0.374210135,zem,zem,TRUE,put the zem on the ball.
+XS_0825,169.1,put the zem on the ball.,ball,zem,1,FALSE,,0,0.236895824,ball,zem,FALSE,put the zem on the ball.
+XS_0825,169.8,put the zem on the ball.,zem,zem,1,TRUE,,0,0.754931397,zem,zem,TRUE,put the zem on the ball.
+XS_0825,170.6,put the zem on the ball.,ball,ball,1,TRUE,0,,0.908755343,wug,ball,FALSE,put the zem on the wug.
+XS_0825,173.3,oh okay throw the zem.,zem,ball,1,FALSE,0,,0.188482771,zem,ball,FALSE,oh okay throw the zem.
+XS_0825,174.4,okay get the ball.,ball,ball,1,TRUE,0,,0.210488731,ball,ball,TRUE,okay get the ball.
+XS_0825,231.5,Daphne has the ball.,ball,zem,1,FALSE,,0,0.834271989,ball,zem,FALSE,Daphne has the ball.
+XS_0825,235.2,yeah get the zem.,zem,zem,1,TRUE,,0,0.41924011,zem,zem,TRUE,yeah get the zem.
+XS_0825,264.2,mommy's going to play with the tima.,tima,tima,1,TRUE,,,0.255792867,tima,tima,TRUE,mommy's going to play with the tima.
+XS_0825,276.6,mommy likes the tima better.,tima,tima,1,TRUE,,,0.723656289,tima,tima,TRUE,mommy likes the tima better.
+XS_0825,280,does Daphne want to play with the tima too?,tima,tima,1,TRUE,,,0.255641515,tima,tima,TRUE,does Daphne want to play with the tima too?
+XS_0825,282,or does Daphne like the ball better?,ball,tima,1,FALSE,,,0.160167523,ball,tima,FALSE,or does Daphne like the ball better?
+XS_0825,300.4,you're really into that ball.,ball,tima,1,FALSE,,,0.251988167,ball,tima,FALSE,you're really into that ball.
+XS_0825,305.9,it's because we don't have balls at home.,ball,tima,1,FALSE,,,0.249339229,ball,tima,FALSE,it's because we don't have balls at home.
+XS_0825,321,where's the tima?,tima,ball,2,FALSE,0,,0.075092,tima,ball,FALSE,where's the tima?
+XS_0825,321,where's the tima?,tima,tima,2,TRUE,,,0.197664882,tima,tima,TRUE,where's the tima?
+XS_0825,322.4,mommy will play with the ball.,ball,ball,2,TRUE,0,,0.599940626,ball,ball,TRUE,mommy will play with the ball.
+XS_0825,322.4,mommy will play with the ball.,ball,tima,2,FALSE,,,0.707290295,ball,tima,FALSE,mommy will play with the ball.
+XS_0825,325.8,do you like that tima?,tima,tima,1,TRUE,,,0.818007676,tima,tima,TRUE,do you like that tima?
+XS_0825,329.6,the tima is orange.,tima,tima,2,TRUE,,,0.134604773,tima,tima,TRUE,the tima is orange.
+XS_0825,329.6,the tima is orange.,tima,zem,2,FALSE,,0,0.482200133,tima,zem,FALSE,the tima is orange.
+XS_0825,333.5,where's the tima?,tima,tima,1,TRUE,,,0.168105557,tima,tima,TRUE,where's the tima?
+XS_0825,359,like that tima.,tima,ball,2,FALSE,0,,0.254746139,tima,ball,FALSE,like that tima.
+XS_0825,359,like that tima.,tima,tima,2,TRUE,,,0.950720019,tima,tima,TRUE,like that tima.
+XS_0825,376.5,shake the tima.,tima,ball,2,FALSE,0,,0.385296461,tima,ball,FALSE,shake the tima.
+XS_0825,376.5,shake the tima.,tima,tima,2,TRUE,,,0.275715885,tima,tima,TRUE,shake the tima.
+XS_0825,426,is that the tima?,tima,ball,1,FALSE,0,,0.761429026,tima,ball,FALSE,is that the tima?
+XS_0825,499,that tima's pretty fun.,tima,ball,2,FALSE,0,,0.899460288,tima,ball,FALSE,that tima's pretty fun.
+XS_0825,499,that tima's pretty fun.,tima,tima,2,TRUE,,,0.52757572,tima,tima,TRUE,that tima's pretty fun.
+XS_0825,576,oh can you get the zem with the tima?,zem,ball,2,FALSE,0,,0.962837808,zem,ball,FALSE,oh can you get the zem with the tima?
+XS_0825,576,oh can you get the zem with the tima?,tima,ball,2,FALSE,0,,0.305467747,tima,ball,FALSE,oh can you get the zem with the tima?
+XS_0825,576,oh can you get the zem with the tima?,zem,zem,2,TRUE,,0,0.458011076,zem,zem,TRUE,oh can you get the zem with the tima?
+XS_0825,576,oh can you get the zem with the tima?,tima,zem,2,FALSE,,0,0.662912423,tima,zem,FALSE,oh can you get the zem with the tima?
+XS_0825,580.6,no you can just stick with the tima that's good.,tima,ball,1,FALSE,0,,0.319093408,tima,ball,FALSE,no you can just stick with the tima that's good.
+XS_0825,619.4,mommy's gonna get the tima.,tima,ball,1,FALSE,0,,0.759419606,tima,ball,FALSE,mommy's gonna get the tima.
+XS_0825,628.8,oh get the tima.,tima,tima,1,TRUE,,,0.727776209,tima,tima,TRUE,oh get the tima.
+XS_0825,650.9,tima tima tima.,tima,tima,1,TRUE,,,0.602225002,tima,tima,TRUE,tima tima tima.
+XS_0825,651.5,tima tima tima.,tima,tima,1,TRUE,,,0.184026957,tima,tima,TRUE,tima tima tima.
+XS_0825,652.1,tima tima tima.,tima,tima,1,TRUE,,,0.616567691,tima,tima,TRUE,tima tima tima.
+XS_0825,667.6,where's the tima?,tima,ball,1,FALSE,0,,0.505565398,tima,ball,FALSE,where's the tima?
+XS_0825,694.9,want a ball or a tima?,ball,ball,2,TRUE,0,,0.973267026,wug,ball,FALSE,want a wug or a tima?
+XS_0825,694.9,want a ball or a tima?,ball,tima,2,FALSE,,,0.856346846,ball,tima,FALSE,want a ball or a tima?
+XS_0825,695.5,want a ball or a tima?,tima,ball,2,FALSE,0,,0.966309027,tima,ball,FALSE,want a ball or a tima?
+XS_0825,695.5,want a ball or a tima?,tima,tima,2,TRUE,,,0.321632395,tima,tima,TRUE,want a ball or a tima?
+XS_0825,703.7,how's that ball taste?,ball,ball,1,TRUE,0,,0.912688673,wug,ball,FALSE,how's that wug taste?
+XS_0825,715.6,that tima makes a fun noise.,tima,ball,1,FALSE,0,,0.596591837,tima,ball,FALSE,that tima makes a fun noise.
+XS_0825,716.8,ball doesn't make any noise.,ball,ball,1,TRUE,0,,0.538199258,ball,ball,TRUE,ball doesn't make any noise.
+XS_0825,765.2,good job you kicked the ball.,ball,ball,1,TRUE,0,,0.828763817,wug,ball,FALSE,good job you kicked the wug.
+XS_0825,774,the balls' stuck.,ball,ball,1,TRUE,0,,0.363131997,ball,ball,TRUE,the balls' stuck.
+XS_0825,793.9,what's the ball doing?,ball,ball,1,TRUE,0,,0.088172203,ball,ball,TRUE,what's the ball doing?
+XS_0825,794.7,the ball's rolling.,ball,ball,1,TRUE,0,,0.073921629,ball,ball,TRUE,the ball's rolling.
+XS_0825,796.7,the ball's rolling.,ball,ball,1,TRUE,0,,0.455445492,ball,ball,TRUE,the ball's rolling.
+XS_0825,799.8,come back ball.,ball,ball,1,TRUE,0,,0.625173879,ball,ball,TRUE,come back ball.
+XS_0825,814.1,got that tima?,tima,tima,1,TRUE,,,0.99165451,tima,tima,TRUE,got that tima?
+XS_0825,841,what's the zem doing?,zem,zem,1,TRUE,,0,0.612541186,zem,zem,TRUE,what's the zem doing?
+XS_0825,844.5,I'm a zem.,zem,zem,1,TRUE,,0,0.692830894,zem,zem,TRUE,I'm a zem.
+XS_0825,845.2,a zem a zem a zem.,zem,zem,1,TRUE,,0,0.752171048,zem,zem,TRUE,a zem a zem a zem.
+XS_0825,845.6,a zem a zem a zem.,zem,zem,1,TRUE,,0,0.527165724,zem,zem,TRUE,a zem a zem a zem.
+XS_0825,846,a zem a zem a zem.,zem,zem,1,TRUE,,0,0.745403718,zem,zem,TRUE,a zem a zem a zem.
+XS_0825,847.5,I'm a yellow zem.,zem,zem,1,TRUE,,0,0.796165845,zem,zem,TRUE,I'm a yellow zem.
+XS_0825,850.9,I'm a yellow zem.,zem,zem,1,TRUE,,0,0.494287206,zem,zem,TRUE,I'm a yellow zem.
+XS_0825,866.3,go back to the ball.,ball,ball,1,TRUE,0,,0.490376274,ball,ball,TRUE,go back to the ball.
+XS_0825,868.3,get the ball.,ball,ball,1,TRUE,0,,0.568405033,ball,ball,TRUE,get the ball.
+XS_0825,869.9,yay grab the ball.,ball,ball,1,TRUE,0,,0.617777122,ball,ball,TRUE,yay grab the ball.
+XS_0825,883,kick the ball.,ball,ball,1,TRUE,0,,0.342208895,ball,ball,TRUE,kick the ball.
+XS_0826,265,oh you like cars.,car,car,1,TRUE,,,0.444279137,car,car,TRUE,oh you like cars.
+XS_0826,268.5,you always want brother's cars.,car,ball,2,FALSE,0,,0.41432537,car,ball,FALSE,you always want brother's cars.
+XS_0826,268.5,you always want brother's cars.,car,car,2,TRUE,,,0.71257254,car,car,TRUE,you always want brother's cars.
+XS_0826,270.1,there's a car.,car,ball,2,FALSE,0,,0.718781083,car,ball,FALSE,there's a car.
+XS_0826,270.1,there's a car.,car,car,2,TRUE,,,0.805961314,car,car,TRUE,there's a car.
+XS_0826,272.9,oh that's a loud car.,car,car,1,TRUE,,,0.044502939,car,car,TRUE,oh that's a loud car.
+XS_0826,295.1,the car ran into the ball.,car,ball,2,FALSE,1,,0.606116231,car,wug,FALSE,the car ran into the ball.
+XS_0826,295.1,the car ran into the ball.,car,car,2,TRUE,,,0.207001767,car,car,TRUE,the car ran into the ball.
+XS_0826,295.8,the car ran into the ball.,ball,ball,2,TRUE,1,,0.574450538,wug,wug,TRUE,the car ran into the wug.
+XS_0826,295.8,the car ran into the ball.,ball,car,2,FALSE,,,0.438429678,ball,car,FALSE,the car ran into the ball.
+XS_0826,310.3,you got the ball.,ball,car,1,FALSE,,,0.08710214,ball,car,FALSE,you got the ball.
+XS_0826,349.2,I'm gonna go get the ball.,ball,ball,1,TRUE,0,,0.835633171,wug,ball,FALSE,I'm gonna go get the wug.
+XS_0826,393.4,let's put the car up the ball.,car,ball,1,FALSE,1,,0.375427197,car,wug,FALSE,let's put the car up the ball.
+XS_0826,394.3,let's put the car up the ball.,ball,ball,2,TRUE,1,,0.212361553,wug,wug,TRUE,let's put the car up the wug.
+XS_0826,394.3,let's put the car up the ball.,ball,brush,2,FALSE,,,0.379353717,ball,brush,FALSE,let's put the car up the ball.
+XS_0826,397.2,here's a brush.,brush,brush,1,TRUE,,,0.342814263,brush,brush,TRUE,here's a brush.
+XS_1201,32.6,is that a ball?,ball,ball,1,TRUE,0,,0.160271024,ball,ball,TRUE,is that a ball?
+XS_1201,35.4,a little baby soccer ball.,ball,ball,1,TRUE,0,,0.242319231,ball,ball,TRUE,a little baby soccer ball.
+XS_1201,44.1,do you want to go get the ball?,ball,ball,1,TRUE,0,,0.311429276,ball,ball,TRUE,do you want to go get the ball?
+XS_1201,100.8,can you say zem.,zem,ball,1,FALSE,1,,0.141191789,zem,wug,FALSE,can you say zem.
+XS_1201,102.6,ball.,ball,ball,1,TRUE,1,,0.194373627,wug,wug,TRUE,wug.
+XS_1201,266.4,call it a manu.,brush,brush,1,TRUE,,,0.309212169,brush,brush,TRUE,call it a manu.
+XS_1201,266.7,brush brush brush brush.,brush,brush,1,TRUE,,,0.523710899,brush,brush,TRUE,brush brush brush brush.
+XS_1201,267,brush brush brush brush.,brush,brush,1,TRUE,,,0.829573032,brush,brush,TRUE,brush brush brush brush.
+XS_1201,267.4,brush brush brush brush.,brush,brush,1,TRUE,,,0.451818453,brush,brush,TRUE,brush brush brush brush.
+XS_1201,292.1,is that the car?,car,car,1,TRUE,,,0.10523591,car,car,TRUE,is that the car?
+XS_1201,295.5,you like the car.,car,car,1,TRUE,,,0.652862503,car,car,TRUE,you like the car.
+XS_1201,305.3,do cars go fast?,car,zem,1,FALSE,,1,0.945341028,car,blicket,FALSE,do cars go fast?
+XS_1205,2.3,look I have the ball.,ball,ball,1,TRUE,1,,0.521432409,wug,wug,TRUE,look I have the wug.
+XS_1205,5.1,this is called zem.,zem,zem,1,TRUE,,0,0.248383819,zem,zem,TRUE,this is called zem.
+XS_1205,12.9,there's the ball.,ball,ball,1,TRUE,1,,0.465023153,wug,wug,TRUE,there's the wug.
+XS_1205,85.9,can you walk to the ball?,ball,ball,1,TRUE,1,,0.056110368,wug,wug,TRUE,can you walk to the wug?
+XS_1205,88,you want to pick up the ball?,ball,ball,1,TRUE,1,,0.183025078,wug,wug,TRUE,you want to pick up the wug?
+XS_1205,101.8,can you kick the ball?,ball,zem,1,FALSE,,1,0.161151063,ball,blicket,FALSE,can you kick the ball?
+XS_1205,115.2,kick the zem.,zem,ball,2,FALSE,1,,0.134297066,zem,wug,FALSE,kick the zem.
+XS_1205,115.2,kick the zem.,zem,zem,2,TRUE,,1,0.056140865,blicket,blicket,TRUE,kick the blicket.
+XS_1205,128.8,go get the ball.,ball,ball,1,TRUE,1,,0.450393914,wug,wug,TRUE,go get the wug.
+XS_1205,132.5,oh the zem.,zem,ball,2,FALSE,0,,0.112177525,zem,ball,FALSE,oh the zem.
+XS_1205,132.5,oh the zem.,zem,zem,2,TRUE,,1,0.194257858,blicket,blicket,TRUE,oh the blicket.
+XS_1205,168.6,there's a car.,car,manu,1,FALSE,,,0.675211948,car,manu,FALSE,there's a car.
+XS_1205,169.7,and a manu.,manu,manu,1,TRUE,,,0.357071344,manu,manu,TRUE,and a manu.
+XS_1205,212.4,or do you want to see the car?,car,car,1,TRUE,,,0.828712199,car,car,TRUE,or do you want to see the car?
+XS_1205,223.4,the car actually squeaks doesn't it?,car,car,2,TRUE,,,0.640631584,car,car,TRUE,the car actually squeaks doesn't it?
+XS_1205,223.4,the car actually squeaks doesn't it?,car,manu,2,FALSE,,,0.761540063,car,manu,FALSE,the car actually squeaks doesn't it?
+XS_1205,288.2,that's called a manu.,manu,manu,1,TRUE,,,0.526262357,manu,manu,TRUE,that's called a manu.
+XS_1205,448.1,do you want to play with the car still?,car,car,1,TRUE,,,0.740039812,car,car,TRUE,do you want to play with the car still?
+XS_1205,495.4,there's a tima.,tima,brush,2,FALSE,,,0.803415962,tima,brush,FALSE,there's a tima.
+XS_1205,495.4,there's a tima.,tima,tima,2,TRUE,,,0.132073442,tima,tima,TRUE,there's a tima.
+XS_1205,496.4,and a brush.,brush,brush,2,TRUE,,,0.663487353,brush,brush,TRUE,and a brush.
+XS_1205,496.4,and a brush.,brush,tima,2,FALSE,,,0.643487819,brush,tima,FALSE,and a brush.
+XS_1205,497.1,can you brush them?,brush,brush,1,TRUE,,,0.779270893,brush,brush,TRUE,can you brush them?
+XS_1205,553.2,are you gonna go brush the door?,brush,brush,1,TRUE,,,0.697715841,brush,brush,TRUE,are you gonna go brush the door?
+XS_1205,571.8,are you brushing the door?,brush,brush,1,TRUE,,,0.494790294,brush,brush,TRUE,are you brushing the door?
+XS_1205,639.8,it does look like a toothbrush.,brush,brush,2,TRUE,,,0.758174654,brush,brush,TRUE,it does look like a toothbrush.
+XS_1205,639.8,it does look like a toothbrush.,brush,tima,2,FALSE,,,0.727538402,brush,tima,FALSE,it does look like a toothbrush.
+XS_1205,730.5,brush brush brush brush brush.,brush,brush,1,TRUE,,,0.286440159,brush,brush,TRUE,brush brush brush brush brush.
+XS_1205,730.8,brush brush brush brush brush.,brush,tima,1,FALSE,,,0.912536881,brush,tima,FALSE,brush brush brush brush brush.
+XS_1205,1101.3,can you brush the door?,brush,brush,1,TRUE,,,0.903435005,brush,brush,TRUE,can you brush the door?
+XS_1208,26.7,get the ball.,ball,ball,1,TRUE,0,,0.694712311,ball,ball,TRUE,get the ball.
+XS_1208,111.6,we've got a car.,car,manu,1,FALSE,,,0.925899237,car,manu,FALSE,we've got a car.
+XS_1208,170.3,that is a good squeaky car isn't it?,car,manu,1,FALSE,,,0.3630715,car,manu,FALSE,that is a good squeaky car isn't it?
+XS_1208,452.5,where's the car going?,car,manu,1,FALSE,,,0.700653348,car,manu,FALSE,where's the car going?
+XS_1211,0.6,want play with zem?,zem,ball,2,FALSE,0,,0.671273723,zem,ball,FALSE,want play with zem?
+XS_1211,0.6,want play with zem?,zem,zem,2,TRUE,,0,0.468594529,zem,zem,TRUE,want play with zem?
+XS_1211,3.3,you want the ball?,ball,ball,1,TRUE,0,,0.827977249,wug,ball,FALSE,you want the wug?
+XS_1211,9.1,zem's funny.,zem,ball,1,FALSE,0,,0.186209512,zem,ball,FALSE,zem's funny.
+XS_1211,23.8,you want to brush your toes with a zem?,zem,ball,1,FALSE,0,,0.528218546,zem,ball,FALSE,you want to brush your toes with a zem?
+XS_1211,90.5,now you want the ball?,ball,ball,1,TRUE,1,,0.463292472,wug,wug,TRUE,now you want the wug?
+XS_1211,92.3,look we can bounce the ball.,ball,ball,1,TRUE,1,,0.44693507,wug,wug,TRUE,look we can bounce the wug.
+XS_1211,110.2,where's the zem?,zem,ball,1,FALSE,0,,0.068124162,zem,ball,FALSE,where's the zem?
+XS_1211,143.6,can you get the ball?,ball,ball,1,TRUE,0,,0.011918737,ball,ball,TRUE,can you get the ball?
+XS_1211,145.2,can you give the ball to grandma?,ball,ball,1,TRUE,0,,0.861408147,wug,ball,FALSE,can you give the wug to grandma?
+XS_1211,160.3,go get the zem.,zem,zem,1,TRUE,,0,0.520478917,zem,zem,TRUE,go get the zem.
+XS_1211,179.9,we could hit the ball with it.,ball,ball,1,TRUE,1,,0.746700784,wug,wug,TRUE,we could hit the wug with it.
+XS_1211,186.2,go get the ball natty.,ball,ball,1,TRUE,1,,0.018309424,wug,wug,TRUE,go get the wug natty.
+XS_1211,188.8,can you bring grandma the ball?,ball,ball,1,TRUE,1,,0.539936559,wug,wug,TRUE,can you bring grandma the wug?
+XS_1211,194.9,can you bring the ball to grandma?,ball,ball,1,TRUE,0,,0.693181766,ball,ball,TRUE,can you bring the ball to grandma?
+XS_1211,197.2,oh I want the zem?,zem,ball,1,FALSE,0,,0.357307939,zem,ball,FALSE,oh I want the zem?
+XS_1211,198.4,can I have the ball now too?,ball,ball,1,TRUE,0,,0.500838498,ball,ball,TRUE,can I have the ball now too?
+XS_1211,200.2,go get the ball.,ball,ball,1,TRUE,0,,0.523868756,ball,ball,TRUE,go get the ball.
+XS_1211,212.8,car.,car,car,2,TRUE,,,0.463925425,car,car,TRUE,car.
+XS_1211,212.8,car.,car,zem,2,FALSE,,1,0.568289834,car,blicket,FALSE,car.
+XS_1211,225.1,this is a manu.,manu,manu,1,TRUE,,,0.220655469,manu,manu,TRUE,this is a manu.
+XS_1211,254,and this is a tima.,tima,tima,1,TRUE,,,0.701409325,tima,tima,TRUE,and this is a tima.
+XS_1211,256,what's a tima?,tima,tima,1,TRUE,,,0.14375293,tima,tima,TRUE,what's a tima?
+XS_1211,342.1,you like the brush don't you?,brush,brush,1,TRUE,,,0.316365033,brush,brush,TRUE,you like the brush don't you?
+XS_1211,348.7,you brush your hair.,brush,tima,1,FALSE,,,0.195196722,brush,tima,FALSE,you brush your hair.
+XS_1211,369.3,I'll tell you story about tima.,tima,tima,1,TRUE,,,0.351023842,tima,tima,TRUE,I'll tell you story about tima.
+XS_1211,393.3,you want the brush?,brush,brush,1,TRUE,,,0.819733325,brush,brush,TRUE,you want the brush?
+XS_1211,395.4,here's a brush it's dancing.,brush,brush,1,TRUE,,,0.517848311,brush,brush,TRUE,here's a brush it's dancing.
+XS_1211,465.8,this one's called manu.,manu,car,1,FALSE,,,0.706279527,manu,car,FALSE,this one's called manu.
+XS_1211,467.5,this is a manu it goes around.,manu,car,1,FALSE,,,0.106509906,manu,car,FALSE,this is a manu it goes around.
+XS_1211,507.6,that's a silly car.,car,manu,1,FALSE,,,0.625993293,car,manu,FALSE,that's a silly car.
+XS_1211,511.6,where's the car's eyes?,car,manu,1,FALSE,,,0.812144434,car,manu,FALSE,where's the car's eyes?
+XS_1211,523.9,and this one's a manu.,manu,manu,1,TRUE,,,0.018097614,manu,manu,TRUE,and this one's a manu.
+XS_1211,558.4,how about the zem I like the zem.,zem,zem,1,TRUE,,0,0.005409678,zem,zem,TRUE,how about the zem I like the zem.
+XS_1211,559.3,how about the zem I like the zem.,zem,zem,1,TRUE,,0,0.832044388,blicket,zem,FALSE,how about the blicket I like the blicket.
+XS_1211,570.8,get the zem and bring it to grandma.,zem,zem,1,TRUE,,0,0.861321965,blicket,zem,FALSE,get the blicket and bring it to grandma.
+XS_1211,579.3,where's the zem?,zem,zem,1,TRUE,,1,0.194447471,blicket,blicket,TRUE,where's the blicket?
+XS_1216,23,you want to play ball?,ball,ball,1,TRUE,0,,0.289189567,ball,ball,TRUE,you want to play ball?
+XS_1216,64,is that a ball?,ball,ball,1,TRUE,0,,0.551680505,ball,ball,TRUE,is that a ball?
+XS_1216,65,ball.,ball,ball,1,TRUE,0,,0.820200439,wug,ball,FALSE,wug.
+XS_1216,77,ball.,ball,zem,1,FALSE,,0,0.192120309,ball,zem,FALSE,ball.
+XS_1216,160,do you want the ball or zem?,ball,ball,1,TRUE,0,,0.142743544,ball,ball,TRUE,do you want the ball or zem?
+XS_1216,160,do you want the ball or zem?,zem,ball,1,FALSE,0,,0.942370962,zem,ball,FALSE,do you want the ball or zem?
+XS_1216,345,oh it's a manu.,manu,manu,1,TRUE,,,0.396830548,manu,manu,TRUE,oh it's a manu.
+XS_1216,361,yeah can you say manu?,manu,manu,1,TRUE,,,0.029509089,manu,manu,TRUE,yeah can you say manu?
+XS_1216,362,manu.,manu,manu,1,TRUE,,,0.101162232,manu,manu,TRUE,manu.
+XS_1216,370,a car.,car,car,1,TRUE,,,0.599398578,car,car,TRUE,a car.
+XS_1216,388,car.,car,car,1,TRUE,,,0.641755967,car,car,TRUE,car.
+XS_1216,418,is that a car?,car,car,1,TRUE,,,0.184708177,car,car,TRUE,is that a car?
+XS_1216,460,car.,car,car,1,TRUE,,,0.162038777,car,car,TRUE,car.
+XS_1216,462,car.,car,car,1,TRUE,,,0.815364775,car,car,TRUE,car.
+XS_1216,539,a manu?,manu,manu,1,TRUE,,,0.679940643,manu,manu,TRUE,a manu?
+XS_1216,557,there's the car.,car,car,1,TRUE,,,0.937403627,car,car,TRUE,there's the car.
+XS_1216,637,is that a manu?,manu,manu,1,TRUE,,,0.279191223,manu,manu,TRUE,is that a manu?
+XS_1216,913,and a brush.,brush,brush,2,TRUE,,,0.85698478,brush,brush,TRUE,and a brush.
+XS_1216,913,and a brush.,brush,tima,2,FALSE,,,0.095912943,brush,tima,FALSE,and a brush.
+XS_1216,925,brush.,brush,brush,1,TRUE,,,0.153985585,brush,brush,TRUE,brush.
+XS_1216,931,is that a brush?,brush,brush,1,TRUE,,,0.066870415,brush,brush,TRUE,is that a brush?
+XS_1218,8,ball.,ball,ball,2,TRUE,1,,0.434930345,wug,wug,TRUE,wug.
+XS_1218,8,ball.,ball,zem,2,FALSE,,0,0.645766545,ball,zem,FALSE,ball.
+XS_1218,60,car.,car,manu,1,FALSE,,,0.473181476,car,manu,FALSE,car.
+XS_1218,217,manu.,manu,manu,1,TRUE,,,0.756835375,manu,manu,TRUE,manu.
+XS_1218,227,manu.,manu,manu,1,TRUE,,,0.82051932,manu,manu,TRUE,manu.
+XS_1218,306,car.,car,car,2,TRUE,,,0.119108149,car,car,TRUE,car.
+XS_1218,306,car.,car,manu,2,FALSE,,,0.021564097,car,manu,FALSE,car.
+XS_1218,407,zem.,zem,zem,1,TRUE,,0,0.115342356,zem,zem,TRUE,zem.
+XS_1218,530,zem.,zem,tima,2,FALSE,,,0.026106815,zem,tima,FALSE,zem.
+XS_1218,530,zem.,zem,zem,2,TRUE,,0,0.241751989,zem,zem,TRUE,zem.
+XS_1218,532,zem.,zem,zem,1,TRUE,,0,0.325298044,zem,zem,TRUE,zem.
+XS_1218,533,zem.,zem,zem,1,TRUE,,0,0.865358346,blicket,zem,FALSE,blicket.
+XS_1218,584,zem.,zem,tima,2,FALSE,,,0.783826146,zem,tima,FALSE,zem.
+XS_1218,584,zem.,zem,zem,2,TRUE,,0,0.501419558,zem,zem,TRUE,zem.
+XS_1218,586,zem.,zem,tima,2,FALSE,,,0.623088231,zem,tima,FALSE,zem.
+XS_1218,586,zem.,zem,zem,2,TRUE,,0,0.023997137,zem,zem,TRUE,zem.
+XS_1218,661,zem.,zem,zem,1,TRUE,,0,0.426499353,zem,zem,TRUE,zem.
+XS_1219,45,zem?,zem,zem,1,TRUE,,1,0.683193056,blicket,blicket,TRUE,blicket?
+XS_1219,48,zem?,zem,zem,1,TRUE,,0,0.450017697,zem,zem,TRUE,zem?
+XS_1219,81,do you want to play with the zem?,zem,zem,1,TRUE,,0,0.225288144,zem,zem,TRUE,do you want to play with the zem?
+XS_1219,83,zem?,zem,zem,1,TRUE,,0,0.261415952,zem,zem,TRUE,zem?
+XS_1219,87,you wanna play with the zem?,zem,ball,2,FALSE,0,,0.311867215,zem,ball,FALSE,you wanna play with the zem?
+XS_1219,87,you wanna play with the zem?,zem,zem,2,TRUE,,0,0.306236107,zem,zem,TRUE,you wanna play with the zem?
+XS_1219,96,zem.,zem,zem,1,TRUE,,0,0.697899926,zem,zem,TRUE,zem.
+XS_1219,111,do you want the zem?,zem,zem,1,TRUE,,1,0.946813408,zem,blicket,FALSE,do you want the zem?
+XS_1219,125,do you want to get the ball?,ball,ball,1,TRUE,0,,0.777030339,ball,ball,TRUE,do you want to get the ball?
+XS_1219,139,zem.,zem,zem,1,TRUE,,0,0.67195256,zem,zem,TRUE,zem.
+XS_1219,149,zem?,zem,ball,1,FALSE,0,,0.195539823,zem,ball,FALSE,zem?
+XS_1219,173,you want to keep playing with the zem?,zem,ball,1,FALSE,1,,0.728577135,zem,wug,FALSE,you want to keep playing with the zem?
+XS_1219,174,zem?,zem,ball,1,FALSE,1,,0.358225741,zem,wug,FALSE,zem?
+XS_1219,208,look at the car.,car,car,1,TRUE,,,0.670108416,car,car,TRUE,look at the car.
+XS_1219,210,and the tima.,tima,car,1,FALSE,,,0.685718487,tima,car,FALSE,and the tima.
+XS_1219,214,you want the tima?,tima,tima,1,TRUE,,,0.008206455,tima,tima,TRUE,you want the tima?
+XS_1219,346,the tima?,tima,tima,1,TRUE,,,0.246675186,tima,tima,TRUE,the tima?
+XS_1219,348,tima?,tima,tima,1,TRUE,,,0.198807069,tima,tima,TRUE,tima?
+XS_1219,355,tima?,tima,car,1,FALSE,,,0.919307195,tima,car,FALSE,tima?
+XS_1219,389,make the car go through the tima.,car,tima,1,FALSE,,,0.903011444,car,tima,FALSE,make the car go through the tima.
+XS_1219,390,make the car go through the tima.,tima,tima,1,TRUE,,,0.633754073,tima,tima,TRUE,make the car go through the tima.
+XS_1219,499,where's the tima?,tima,car,1,FALSE,,,0.465907069,tima,car,FALSE,where's the tima?
+XS_1219,503,where's the tima?,tima,car,1,FALSE,,,0.151988298,tima,car,FALSE,where's the tima?
+XS_1219,511,want to get the tima?,tima,car,1,FALSE,,,0.253600802,tima,car,FALSE,want to get the tima?
+XS_1219,521,you found the tima.,tima,car,1,FALSE,,,0.772320288,tima,car,FALSE,you found the tima.
+XS_1219,556,do you want the manu or the brush?,manu,brush,2,FALSE,,,0.805524987,manu,brush,FALSE,do you want the manu or the brush?
+XS_1219,556,do you want the manu or the brush?,manu,manu,2,TRUE,,,0.014198915,manu,manu,TRUE,do you want the manu or the brush?
+XS_1219,557,do you want the manu or the brush?,brush,brush,2,TRUE,,,0.885542748,brush,brush,TRUE,do you want the manu or the brush?
+XS_1219,557,do you want the manu or the brush?,brush,manu,2,FALSE,,,0.995897569,brush,manu,FALSE,do you want the manu or the brush?
+XS_1219,559,manu.,manu,brush,1,FALSE,,,0.196674714,manu,brush,FALSE,manu.
+XS_1219,561,brush.,brush,brush,1,TRUE,,,0.62400598,brush,brush,TRUE,brush.
+XS_1219,566,brush?,brush,brush,1,TRUE,,,0.57915993,brush,brush,TRUE,brush?
+XS_1219,572,manu.,manu,manu,1,TRUE,,,0.273413746,manu,manu,TRUE,manu.
+XS_1219,627,do you want to turn the manu?,manu,manu,1,TRUE,,,0.557717297,manu,manu,TRUE,do you want to turn the manu?
+XS_1219,694,manu?,manu,manu,1,TRUE,,,0.875149484,manu,manu,TRUE,manu?
+XS_1219,775.4,where's the manu?,manu,manu,1,TRUE,,,0.361502122,manu,manu,TRUE,where's the manu?
+XS_1219,776.5,where's the manu?,manu,manu,1,TRUE,,,0.957395865,manu,manu,TRUE,where's the manu?
+XS_1219,895,do you want your tima back?,tima,brush,1,FALSE,,,0.452223051,tima,brush,FALSE,do you want your tima back?
+XS_1219,901,do you want want the tima?,tima,tima,1,TRUE,,,0.135699467,tima,tima,TRUE,do you want want the tima?
+XS_1222,6.3,is that a ball?,ball,zem,1,FALSE,,1,0.362294943,ball,blicket,FALSE,is that a ball?
+XS_1222,8.1,is that a ball?,ball,zem,1,FALSE,,1,0.561325153,ball,blicket,FALSE,is that a ball?
+XS_1222,9.8,are you eating the ball?,ball,zem,1,FALSE,,1,0.491854117,ball,blicket,FALSE,are you eating the ball?
+XS_1222,11.2,can you give the ball to mama?,ball,zem,1,FALSE,,1,0.475361758,ball,blicket,FALSE,can you give the ball to mama?
+XS_1222,16.7,can you take the ball back?,ball,zem,1,FALSE,,0,0.960489439,ball,zem,FALSE,can you take the ball back?
+XS_1222,28,that's a tima.,tima,zem,1,FALSE,,0,0.02295288,tima,zem,FALSE,that's a tima.
+XS_1222,30.5,a tima.,tima,zem,1,FALSE,,1,0.317406592,tima,blicket,FALSE,a tima.
+XS_1222,266.3,brush your hair.,brush,brush,2,TRUE,,,0.554177083,brush,brush,TRUE,brush your hair.
+XS_1222,266.3,brush your hair.,brush,zem,2,FALSE,,1,0.86468247,brush,blicket,FALSE,brush your hair.
+XS_1222,269,brush brush brush.,brush,zem,1,FALSE,,1,0.822234222,brush,blicket,FALSE,brush brush brush.
+XS_1222,345,do you want to see the ball again?,ball,ball,1,TRUE,1,,0.055789563,wug,wug,TRUE,do you want to see the wug again?
+XS_1222,348.1,brush brush brush.,brush,ball,1,FALSE,0,,0.087168586,brush,ball,FALSE,brush brush brush.
+XS_1222,527.9,get the car.,car,ball,1,FALSE,1,,0.343775048,car,wug,FALSE,get the car.
+XS_1224,3,what are you going to do with that brush huh?,brush,brush,1,TRUE,,,0.139400329,brush,brush,TRUE,what are you going to do with that brush huh?
+XS_1224,5.7,it's a pretty blue brush huh?,brush,brush,1,TRUE,,,0.648007074,brush,brush,TRUE,it's a pretty blue brush huh?
+XS_1224,111,a tima.,tima,tima,1,TRUE,,,0.787969405,tima,tima,TRUE,a tima.
+XS_1224,113.1,look at the tima.,tima,tima,1,TRUE,,,0.581417558,tima,tima,TRUE,look at the tima.
+XS_1224,290.9,here you take the tima.,tima,tima,1,TRUE,,,0.694280656,tima,tima,TRUE,here you take the tima.
+XS_1224,292.6,oh you wanted the brush?,brush,tima,1,FALSE,,,0.91110414,brush,tima,FALSE,oh you wanted the brush?
+XS_1224,385.6,should we do brush or tima?,brush,brush,1,TRUE,,,0.924604073,brush,brush,TRUE,should we do brush or tima?
+XS_1224,386.2,should we do brush or tima?,tima,brush,1,FALSE,,,0.932769831,tima,brush,FALSE,should we do brush or tima?
+XS_1224,402.8,where's the brush and the tima?,brush,tima,1,FALSE,,,0.581221917,brush,tima,FALSE,where's the brush and the tima?
+XS_1224,568.2,are you eating the brush again?,brush,tima,1,FALSE,,,0.390160054,brush,tima,FALSE,are you eating the brush again?
+XS_1224,855.7,where did the tima go?,tima,tima,1,TRUE,,,0.265418449,tima,tima,TRUE,where did the tima go?
+XS_1224,857.6,where's the tima?,tima,tima,1,TRUE,,,0.181609376,tima,tima,TRUE,where's the tima?
+XS_1229,0.6,show me the ball.,ball,ball,1,TRUE,0,,0.127255444,ball,ball,TRUE,show me the ball.
+XS_1229,1.8,show mama the ball.,ball,ball,1,TRUE,1,,0.481430417,wug,wug,TRUE,show mama the wug.
+XS_1229,3.8,show mama the ball.,ball,ball,1,TRUE,1,,0.920216335,ball,wug,FALSE,show mama the ball.
+XS_1229,11.6,go get the ball.,ball,ball,1,TRUE,1,,0.931181656,ball,wug,FALSE,go get the ball.
+XS_1229,39.7,zem.,zem,zem,1,TRUE,,1,0.423843759,blicket,blicket,TRUE,blicket.
+XS_1229,42.1,zem.,zem,ball,2,FALSE,0,,0.474039634,zem,ball,FALSE,zem.
+XS_1229,42.1,zem.,zem,zem,2,TRUE,,0,0.748723513,zem,zem,TRUE,zem.
+XS_1229,102.5,and the ball.,ball,manu,2,FALSE,,,0.770252618,ball,manu,FALSE,and the ball.
+XS_1229,102.5,and the ball.,ball,tima,2,FALSE,,,0.303219339,ball,tima,FALSE,and the ball.
+XS_1229,203.4,big brush.,brush,brush,1,TRUE,,,0.169637925,brush,brush,TRUE,big brush.
+XS_1229,218.3,the ball.,ball,car,1,FALSE,,,0.187403461,ball,car,FALSE,the ball.
+XS_1229,220.7,the car.,car,car,2,TRUE,,,0.517685876,car,car,TRUE,the car.
+XS_1229,220.7,the car.,car,tima,2,FALSE,,,0.206917889,car,tima,FALSE,the car.
+XS_1229,224.6,want to put brush back?,brush,tima,1,FALSE,,,0.382660013,brush,tima,FALSE,want to put brush back?
+XS_1229,227.3,or do you like the brush?,brush,tima,1,FALSE,,,0.199477934,brush,tima,FALSE,or do you like the brush?
+XS_1229,231.9,[xxx] ball.,ball,ball,2,TRUE,1,,0.772601129,wug,wug,TRUE,[xxx] wug.
+XS_1229,231.9,[xxx] ball.,ball,car,2,FALSE,,,0.516726627,ball,car,FALSE,[xxx] ball.
+XS_1229,279.1,manu.,manu,ball,2,FALSE,0,,0.466741321,manu,ball,FALSE,manu.
+XS_1229,279.1,manu.,manu,manu,2,TRUE,,,0.619062254,manu,manu,TRUE,manu.
+XS_1229,461.8,the brush.,brush,brush,1,TRUE,,,0.621366748,brush,brush,TRUE,the brush.
+XS_1229,520.3,where did the ball go?,ball,ball,1,TRUE,0,,0.661711364,ball,ball,TRUE,where did the ball go?
+XS_1229,542.3,the car?,car,ball,1,FALSE,0,,0.484137391,car,ball,FALSE,the car?
+XS_1229,543.7,I want the car.,car,ball,1,FALSE,0,,0.058820973,car,ball,FALSE,I want the car.
+XS_1229,549.6,the brush is your favorite huh.,brush,car,1,FALSE,,,0.637916324,brush,car,FALSE,the brush is your favorite huh.
+XS_1229,647.9,can you brush your teeth?,brush,car,1,FALSE,,,0.885347598,brush,car,FALSE,can you brush your teeth?
+XS_1229,719.7,where's ball?,ball,ball,1,TRUE,0,,0.268133367,ball,ball,TRUE,where's ball?
+XS_1229,857.9,wear your hat and get mommy the ball.,ball,tima,1,FALSE,,,0.203218322,ball,tima,FALSE,wear your hat and get mommy the ball.
+XS_1229,859.6,throw the ball.,ball,tima,1,FALSE,,,0.985705728,ball,tima,FALSE,throw the ball.
+XS_1229,873.2,where's your brush?,brush,tima,1,FALSE,,,0.413507798,brush,tima,FALSE,where's your brush?
+XS_1229,874.8,where's your brush?,brush,tima,1,FALSE,,,0.614680747,brush,tima,FALSE,where's your brush?
+XS_1229,880.2,where's the brush?,brush,tima,1,FALSE,,,0.243066941,brush,tima,FALSE,where's the brush?
+XS_1230,44,where did the ball go?,ball,manu,1,FALSE,,,0.684644175,ball,manu,FALSE,where did the ball go?
+XS_1230,45.7,oh do you see the ball over in the corner?,ball,ball,1,TRUE,1,,0.280616574,wug,wug,TRUE,oh do you see the wug over in the corner?
+XS_1230,48.2,do you want to play roll the ball?,ball,ball,1,TRUE,0,,0.972055871,wug,ball,FALSE,do you want to play roll the wug?
+XS_1230,57,yeah you got a purple ball.,ball,ball,1,TRUE,0,,0.247371872,ball,ball,TRUE,yeah you got a purple ball.
+XS_1230,60,oh you threw me the ball.,ball,ball,1,TRUE,0,,0.792478747,ball,ball,TRUE,oh you threw me the ball.
+XS_1230,89.9,that's the trouble with comparing anything to a ball.,ball,ball,1,TRUE,0,,0.655645331,ball,ball,TRUE,that's the trouble with comparing anything to a ball.
+XS_1230,90.3,those balls are too large.,ball,ball,1,TRUE,0,,0.423886029,ball,ball,TRUE,those balls are too large.
+XS_1230,98.4,zem.,zem,zem,1,TRUE,,0,0.641995847,zem,zem,TRUE,zem.
+XS_1230,121.9,are you going to chew on the ball?,ball,zem,1,FALSE,,0,0.637278792,ball,zem,FALSE,are you going to chew on the ball?
+XS_1230,142.1,that is a chomp-able ball.,ball,ball,1,TRUE,0,,0.251474358,ball,ball,TRUE,that is a chomp-able ball.
+XS_1230,149,do you want to play catch the zem?,zem,ball,2,FALSE,1,,0.602309269,zem,wug,FALSE,do you want to play catch the zem?
+XS_1230,149,do you want to play catch the zem?,zem,zem,2,TRUE,,1,0.049439377,blicket,blicket,TRUE,do you want to play catch the blicket?
+XS_1230,150.3,can you catch the zem instead?,zem,ball,2,FALSE,1,,0.494347345,zem,wug,FALSE,can you catch the zem instead?
+XS_1230,150.3,can you catch the zem instead?,zem,zem,2,TRUE,,1,0.175977145,blicket,blicket,TRUE,can you catch the blicket instead?
+XS_1230,155.7,no the ball is better.,ball,ball,2,TRUE,1,,0.9079752,ball,wug,FALSE,no the ball is better.
+XS_1230,155.7,no the ball is better.,ball,zem,2,FALSE,,0,0.157063549,ball,zem,FALSE,no the ball is better.
+XS_1230,184.4,less chewing on the ball.,ball,ball,1,TRUE,0,,0.019294891,ball,ball,TRUE,less chewing on the ball.
+XS_1230,212.8,flying zem.,zem,ball,2,FALSE,0,,0.338466572,zem,ball,FALSE,flying zem.
+XS_1230,212.8,flying zem.,zem,zem,2,TRUE,,0,0.304944661,zem,zem,TRUE,flying zem.
+XS_1230,238.6,you like the ball.,ball,ball,1,TRUE,1,,0.281092183,wug,wug,TRUE,you like the wug.
+XS_1230,249,oh do you want to chew on a toothbrush?,brush,brush,1,TRUE,,,0.075121257,brush,brush,TRUE,oh do you want to chew on a toothbrush?
+XS_1230,249.9,and that's not a [xxx] toothbrush.,brush,brush,1,TRUE,,,0.653116123,brush,brush,TRUE,and that's not a [xxx] toothbrush.
+XS_1230,250.7,bigger than a toothbrush.,brush,brush,1,TRUE,,,0.106590719,brush,brush,TRUE,bigger than a toothbrush.
+XS_1604,6.5,zem.,zem,zem,1,TRUE,,1,0.222852808,blicket,blicket,TRUE,blicket.
+XS_1604,41.2,can you roll the ball to mommy?,ball,zem,1,FALSE,,1,0.540122046,ball,blicket,FALSE,can you roll the ball to mommy?
+XS_1604,42.6,roll the ball to mommy.,ball,zem,1,FALSE,,1,0.253339967,ball,blicket,FALSE,roll the ball to mommy.
+XS_1604,48.7,roll the ball.,ball,zem,1,FALSE,,1,0.071529439,ball,blicket,FALSE,roll the ball.
+XS_1604,49.6,roll the ball wee.,ball,zem,1,FALSE,,1,0.473918888,ball,blicket,FALSE,roll the ball wee.
+XS_1604,64.3,would you like to play with the zem?,zem,zem,1,TRUE,,1,0.526590011,blicket,blicket,TRUE,would you like to play with the blicket?
+XS_1604,66.5,would you like to play with the zem?,zem,zem,1,TRUE,,1,0.621012885,blicket,blicket,TRUE,would you like to play with the blicket?
+XS_1604,68,zem zem zem zem zem zem.,zem,zem,1,TRUE,,1,0.996209779,zem,blicket,FALSE,zem zem zem zem zem zem.
+XS_1604,68.4,zem zem zem zem zem zem.,zem,zem,1,TRUE,,1,0.494369751,blicket,blicket,TRUE,blicket blicket blicket blicket blicket blicket.
+XS_1604,68.9,zem zem zem zem zem zem.,zem,zem,1,TRUE,,1,0.674608697,blicket,blicket,TRUE,blicket blicket blicket blicket blicket blicket.
+XS_1604,69.1,zem zem zem zem zem zem.,zem,zem,1,TRUE,,1,0.696447477,blicket,blicket,TRUE,blicket blicket blicket blicket blicket blicket.
+XS_1604,71.6,zem zem zem zem zem zem.,zem,zem,1,TRUE,,1,0.296568606,blicket,blicket,TRUE,blicket blicket blicket blicket blicket blicket.
+XS_1604,71.9,zem zem zem zem zem zem.,zem,zem,1,TRUE,,1,0.262097035,blicket,blicket,TRUE,blicket blicket blicket blicket blicket blicket.
+XS_1604,72.2,zem zem zem zem.,zem,zem,1,TRUE,,1,0.652945709,blicket,blicket,TRUE,blicket blicket blicket blicket.
+XS_1604,73,zem zem zem zem zem.,zem,zem,1,TRUE,,1,0.891849855,zem,blicket,FALSE,zem zem zem zem zem.
+XS_1604,73.2,zem zem zem zem zem.,zem,zem,1,TRUE,,1,0.7325642,blicket,blicket,TRUE,blicket blicket blicket blicket blicket.
+XS_1604,73.4,zem zem zem zem zem.,zem,zem,1,TRUE,,0,0.306020987,zem,zem,TRUE,zem zem zem zem zem.
+XS_1604,73.6,zem zem zem zem zem.,zem,zem,1,TRUE,,0,0.059200004,zem,zem,TRUE,zem zem zem zem zem.
+XS_1604,78.6,zem zem zem zem.,zem,zem,1,TRUE,,1,0.792528939,blicket,blicket,TRUE,blicket blicket blicket blicket.
+XS_1604,78.7,zem zem zem zem.,zem,zem,1,TRUE,,1,0.830325148,zem,blicket,FALSE,zem zem zem zem.
+XS_1604,78.8,zem zem zem zem.,zem,zem,1,TRUE,,1,0.565519723,blicket,blicket,TRUE,blicket blicket blicket blicket.
+XS_1604,79,zem zem zem zem.,zem,zem,1,TRUE,,1,0.086456237,blicket,blicket,TRUE,blicket blicket blicket blicket.
+XS_1604,79.1,zem zem zem zem.,zem,zem,1,TRUE,,1,0.909381407,zem,blicket,FALSE,zem zem zem zem.
+XS_1604,93.5,which one is the zem?,zem,zem,1,TRUE,,1,0.568722497,blicket,blicket,TRUE,which one is the blicket?
+XS_1604,94.8,the zem?,zem,zem,1,TRUE,,1,0.105792148,blicket,blicket,TRUE,the blicket?
+XS_1604,98.2,which one is the zem?,zem,ball,1,FALSE,1,,0.857170421,zem,wug,FALSE,which one is the zem?
+XS_1604,118.1,do you want to hold the ball?,ball,zem,1,FALSE,,1,0.685021617,ball,blicket,FALSE,do you want to hold the ball?
+XS_1604,151.7,which one is the ball?,ball,ball,1,TRUE,0,,0.332151295,ball,ball,TRUE,which one is the ball?
+XS_1604,280.4,you want the zem?,zem,zem,1,TRUE,,1,0.894636373,zem,blicket,FALSE,you want the zem?
+XS_1604,285.2,the ball?,ball,ball,2,TRUE,1,,0.49827535,wug,wug,TRUE,the wug?
+XS_1604,285.2,the ball?,ball,zem,2,FALSE,,1,0.745784878,ball,blicket,FALSE,the ball?
+XS_1604,437.4,manu manu manu.,manu,manu,1,TRUE,,,0.203622711,manu,manu,TRUE,manu manu manu.
+XS_1604,437.7,manu manu manu.,manu,manu,1,TRUE,,,0.005070415,manu,manu,TRUE,manu manu manu.
+XS_1604,439.6,can you say manu?,manu,manu,1,TRUE,,,0.817084082,manu,manu,TRUE,can you say manu?
+XS_1604,441,manu?,manu,manu,1,TRUE,,,0.439502732,manu,manu,TRUE,manu?
+XS_1604,710,Luke can you hand me that oh that's the car.,car,car,1,TRUE,,,0.362928104,car,car,TRUE,Luke can you hand me that oh that's the car.
+XS_1604,711.5,can I have the tima?,tima,car,1,FALSE,,,0.796461134,tima,car,FALSE,can I have the tima?
+XS_1604,713.8,you can have the car.,car,car,1,TRUE,,,0.495646863,car,car,TRUE,you can have the car.
+XS_1604,715.1,can I have the tima?,tima,car,1,FALSE,,,0.660592353,tima,car,FALSE,can I have the tima?
+XS_1604,751,I'll take the car and you can have the brush.,car,car,1,TRUE,,,0.638283426,car,car,TRUE,I'll take the car and you can have the brush.
+XS_1604,758.1,can you brush my arm?,brush,tima,1,FALSE,,,0.410895818,brush,tima,FALSE,can you brush my arm?
+XS_1604,797.2,brush.,brush,brush,1,TRUE,,,0.178721013,brush,brush,TRUE,brush.
+XS_1604,807.2,do you want the ball?,ball,ball,1,TRUE,1,,0.682090984,wug,wug,TRUE,do you want the wug?
+XS_1604,808.5,ball.,ball,ball,1,TRUE,1,,0.578804499,wug,wug,TRUE,wug.
+XS_1604,822.4,do you want the car?,car,car,1,TRUE,,,0.235621472,car,car,TRUE,do you want the car?
+XS_1604,823.5,car.,car,car,1,TRUE,,,0.161536195,car,car,TRUE,car.
+XS_1604,825.8,do you want the car?,car,ball,2,FALSE,1,,0.981247517,car,wug,FALSE,do you want the car?
+XS_1604,825.8,do you want the car?,car,car,2,TRUE,,,0.366035726,car,car,TRUE,do you want the car?
+XS_1604,827,put the ball back.,ball,ball,1,TRUE,1,,0.251237904,wug,wug,TRUE,put the wug back.
+XS_1604,837,manu.,manu,manu,1,TRUE,,,0.072222309,manu,manu,TRUE,manu.
+XS_1604,838.7,do you want the manu?,manu,manu,1,TRUE,,,0.184151999,manu,manu,TRUE,do you want the manu?
+XS_1604,894.7,do you want the tima?,tima,tima,1,TRUE,,,0.741150708,tima,tima,TRUE,do you want the tima?
+XS_1604,895.8,tima?,tima,ball,2,FALSE,1,,0.656371352,tima,wug,FALSE,tima?
+XS_1604,895.8,tima?,tima,tima,2,TRUE,,,0.856695503,tima,tima,TRUE,tima?
+XS_1604,954.9,can you go get the ball?,ball,ball,1,TRUE,1,,0.230116256,wug,wug,TRUE,can you go get the wug?
+XS_1604,956.4,go get the ball.,ball,ball,1,TRUE,1,,0.596511671,wug,wug,TRUE,go get the wug.
+XS_1604,1001.9,you don't want to play with the tima anymore?,tima,tima,1,TRUE,,,0.50361777,tima,tima,TRUE,you don't want to play with the tima anymore?
+XS_1604,1035.4,ah there goes the ball.,ball,ball,1,TRUE,1,,0.380981849,wug,wug,TRUE,ah there goes the wug.
+XS_1604,1037.2,there goes the ball.,ball,ball,1,TRUE,1,,0.918713554,ball,wug,FALSE,there goes the ball.
+XS_1604,1074.3,oh well ball yay woo.,ball,ball,1,TRUE,1,,0.166749034,wug,wug,TRUE,oh well wug yay woo.
+XS_1604,1079.8,give mommy the tima.,tima,ball,1,FALSE,1,,0.88748097,tima,wug,FALSE,give mommy the tima.
+XS_1604,1085.7,how about the zem?,zem,zem,1,TRUE,,1,0.914615507,zem,blicket,FALSE,how about the zem?
+XS_1612,9.4,what color is this ball?,ball,ball,1,TRUE,1,,0.087735999,wug,wug,TRUE,what color is this wug?
+XS_1612,19.1,can you kick the ball?,ball,zem,1,FALSE,,1,0.478955478,ball,blicket,FALSE,can you kick the ball?
+XS_1612,125,a zem.,zem,zem,1,TRUE,,1,0.571720455,blicket,blicket,TRUE,a blicket.
+XS_1612,126.1,this is a zem.,zem,zem,1,TRUE,,1,0.599288491,blicket,blicket,TRUE,this is a blicket.
+XS_1612,129.6,zem.,zem,zem,1,TRUE,,1,0.093066944,blicket,blicket,TRUE,blicket.
+XS_1612,188.7,kick the ball.,ball,ball,1,TRUE,0,,0.71153766,ball,ball,TRUE,kick the ball.
+XS_1612,192.2,kick the ball.,ball,ball,1,TRUE,0,,0.138889945,ball,ball,TRUE,kick the ball.
+XS_1612,221.7,I put the zem on my hand.,zem,zem,1,TRUE,,1,0.342389802,blicket,blicket,TRUE,I put the blicket on my hand.
+XS_1612,235.3,you've got the zem.,zem,ball,1,FALSE,1,,0.893386769,zem,wug,FALSE,you've got the zem.
+XS_1612,359.7,you dropped the zem.,zem,ball,1,FALSE,1,,0.087149115,zem,wug,FALSE,you dropped the zem.
+XS_1612,368.9,it's a yellow zem.,zem,ball,1,FALSE,1,,0.974760301,zem,wug,FALSE,it's a yellow zem.
+XS_1612,373.3,you throwing the zem now?,zem,zem,1,TRUE,,1,0.253413823,blicket,blicket,TRUE,you throwing the blicket now?
+XS_1612,428.4,zem.,zem,zem,1,TRUE,,1,0.732026158,blicket,blicket,TRUE,blicket.
+XS_1612,533.7,or you like the zem that much?,zem,zem,1,TRUE,,1,0.949394487,zem,blicket,FALSE,or you like the zem that much?
+XS_1612,575.8,you gonna throw the zem?,zem,zem,1,TRUE,,1,0.45764262,blicket,blicket,TRUE,you gonna throw the blicket?
+XS_1612,576.7,zem.,zem,zem,1,TRUE,,1,0.050698116,blicket,blicket,TRUE,blicket.
+XS_1612,580,ball.,ball,ball,1,TRUE,1,,0.665026447,wug,wug,TRUE,wug.
+XS_1612,602.9,this is a manu.,manu,car,1,FALSE,,,0.622784458,manu,car,FALSE,this is a manu.
+XS_1612,604.5,manu.,manu,car,1,FALSE,,,0.816465841,manu,car,FALSE,manu.
+XS_1612,611,car.,car,manu,1,FALSE,,,0.574601132,car,manu,FALSE,car.
+XS_1612,641.9,is that a racecar?,car,car,2,TRUE,,,0.525920886,car,car,TRUE,is that a racecar?
+XS_1612,641.9,is that a racecar?,car,manu,2,FALSE,,,0.772282376,car,manu,FALSE,is that a racecar?
+XS_1612,653.1,manu.,manu,manu,1,TRUE,,,0.772819486,manu,manu,TRUE,manu.
+XS_1612,670.6,you've got the manu?,manu,manu,1,TRUE,,,0.419134571,manu,manu,TRUE,you've got the manu?
+XS_1612,687,you dropped the manu?,manu,manu,1,TRUE,,,0.49969952,manu,manu,TRUE,you dropped the manu?
+XS_1612,725.9,you want the racecar.,car,car,1,TRUE,,,0.436112842,car,car,TRUE,you want the racecar.
+XS_1612,759.1,see the brush?,brush,brush,1,TRUE,,,0.58376109,brush,brush,TRUE,see the brush?
+XS_1612,760.7,brush.,brush,brush,1,TRUE,,,0.652396641,brush,brush,TRUE,brush.
+XS_1612,763.1,brush.,brush,brush,1,TRUE,,,0.504242934,brush,brush,TRUE,brush.
+XS_1612,769.1,brush.,brush,tima,1,FALSE,,,0.782646628,brush,tima,FALSE,brush.
+XS_1612,771.4,brush.,brush,brush,1,TRUE,,,0.16191232,brush,brush,TRUE,brush.
+XS_1612,837.8,you whacking the desk with the brush?,brush,tima,1,FALSE,,,0.286698184,brush,tima,FALSE,you whacking the desk with the brush?
+XS_1612,851.4,tima.,tima,tima,1,TRUE,,,0.790630493,tima,tima,TRUE,tima.
+XS_1612,901.5,can you give the tima to mommy?,tima,tima,1,TRUE,,,0.824287011,tima,tima,TRUE,can you give the tima to mommy?
+XS_1614,44,look it's a zem.,zem,zem,1,TRUE,,0,0.733530457,zem,zem,TRUE,look it's a zem.
+XS_1614,46.4,can you say zem.,zem,zem,1,TRUE,,1,0.252183752,blicket,blicket,TRUE,can you say blicket.
+XS_1614,165.7,do you want to play with the tima?,tima,tima,1,TRUE,,,0.215762997,tima,tima,TRUE,do you want to play with the tima?
+XS_1614,172,tima.,tima,tima,1,TRUE,,,0.596531258,tima,tima,TRUE,tima.
+XS_1614,190,here comes the tima.,tima,tima,1,TRUE,,,0.665305451,tima,tima,TRUE,here comes the tima.
+XS_1614,200.1,how about a manu?,manu,manu,1,TRUE,,,0.980637181,manu,manu,TRUE,how about a manu?
+XS_1614,323.2,yes it's a brush huh?,brush,brush,1,TRUE,,,0.955091607,brush,brush,TRUE,yes it's a brush huh?
+XS_1614,338.6,do you want the ball again?,ball,ball,1,TRUE,1,,0.2653308,wug,wug,TRUE,do you want the wug again?
+XS_1614,355.9,the ball.,ball,tima,1,FALSE,,,0.277191197,ball,tima,FALSE,the ball.
+XS_1614,379.6,I know you see the ball.,ball,ball,1,TRUE,1,,0.088588477,wug,wug,TRUE,I know you see the wug.
+XS_1614,395.7,zem.,zem,tima,1,FALSE,,,0.424709751,zem,tima,FALSE,zem.
+XS_1614,415,you got me with the zem.,zem,zem,1,TRUE,,0,0.501743009,zem,zem,TRUE,you got me with the zem.
+XS_1614,445.7,here's a zem.,zem,zem,1,TRUE,,1,0.300171075,blicket,blicket,TRUE,here's a blicket.
+XS_1614,452.1,how about the manu?,manu,ball,1,FALSE,0,,0.024091273,manu,ball,FALSE,how about the manu?
+XS_1614,455.8,manu.,manu,ball,2,FALSE,0,,0.865112258,manu,ball,FALSE,manu.
+XS_1614,455.8,manu.,manu,manu,2,TRUE,,,0.218364688,manu,manu,TRUE,manu.
+XS_1614,460.3,do you want to play with the manu?,manu,manu,1,TRUE,,,0.887308378,manu,manu,TRUE,do you want to play with the manu?
+XS_1614,466.9,do you want to play with look you can take the brush and get the ball.,brush,brush,1,TRUE,,,0.415855982,brush,brush,TRUE,do you want to play with look you can take the brush and get the ball.
+XS_1614,467.9,do you want to play with look you can take the brush and get the ball.,ball,brush,1,FALSE,,,0.938618598,ball,brush,FALSE,do you want to play with look you can take the brush and get the ball.
+XS_1614,469.4,let's get the ball with the brush.,ball,ball,1,TRUE,0,,0.373368023,ball,ball,TRUE,let's get the ball with the brush.
+XS_1614,469.9,let's get the ball with the brush.,brush,ball,1,FALSE,0,,0.248576314,brush,ball,FALSE,let's get the ball with the brush.
+XS_1614,538.6,brush.,brush,ball,1,FALSE,0,,0.636668904,brush,ball,FALSE,brush.
+XS_1614,550.9,you don't want the tima?,tima,tima,1,TRUE,,,0.1998361,tima,tima,TRUE,you don't want the tima?
+XS_1614,554.1,you want the tima?,tima,tima,1,TRUE,,,0.50469653,tima,tima,TRUE,you want the tima?
+XS_1614,557.2,do you want the manu?,manu,manu,1,TRUE,,,0.598673282,manu,manu,TRUE,do you want the manu?
+XS_1614,562.2,you can put the brush inside.,brush,manu,1,FALSE,,,0.225082087,brush,manu,FALSE,you can put the brush inside.
+XS_1614,621.1,do you want the manu?,manu,manu,1,TRUE,,,0.594426061,manu,manu,TRUE,do you want the manu?
+XS_1614,630,the manu?,manu,manu,1,TRUE,,,0.456773459,manu,manu,TRUE,the manu?
+XS_1614,634.2,do you want the zem?,zem,manu,2,FALSE,,,0.560459464,zem,manu,FALSE,do you want the zem?
+XS_1614,634.2,do you want the zem?,zem,zem,2,TRUE,,0,0.914336142,blicket,zem,FALSE,do you want the blicket?
+XS_1614,636.6,uhoh here comes the zem.,zem,zem,1,TRUE,,1,0.574075471,blicket,blicket,TRUE,uhoh here comes the blicket.
+XS_1614,647.8,here comes the zem.,zem,zem,1,TRUE,,0,0.357919452,zem,zem,TRUE,here comes the zem.
+XS_1614,649.9,zem yes.,zem,zem,1,TRUE,,1,0.462868212,blicket,blicket,TRUE,blicket yes.
+XS_1614,664.8,nightnight zem.,zem,zem,1,TRUE,,1,0.25538723,blicket,blicket,TRUE,nightnight blicket.
+XS_1614,798.4,the car has a number one.,car,car,1,TRUE,,,0.381438789,car,car,TRUE,the car has a number one.
+XS_1614,826.6,tima.,tima,tima,1,TRUE,,,0.104285713,tima,tima,TRUE,tima.
+XS_1614,828.2,tima.,tima,tima,1,TRUE,,,0.119438311,tima,tima,TRUE,tima.
+XS_1614,829.5,tima.,tima,tima,1,TRUE,,,0.793203902,tima,tima,TRUE,tima.
+XS_1614,831,tima tima tima.,tima,tima,1,TRUE,,,0.144962861,tima,tima,TRUE,tima tima tima.
+XS_1614,831.3,tima tima tima.,tima,tima,1,TRUE,,,0.701061163,tima,tima,TRUE,tima tima tima.
+XS_1614,831.7,tima tima tima.,tima,tima,1,TRUE,,,0.006677947,tima,tima,TRUE,tima tima tima.
+XS_1614,855.8,doctor tima.,tima,tima,1,TRUE,,,0.720451707,tima,tima,TRUE,doctor tima.
+XS_1614,883.9,do you want the ball?,ball,tima,1,FALSE,,,0.180773897,ball,tima,FALSE,do you want the ball?
+XS_1614,893,purple ball.,ball,ball,2,TRUE,1,,0.182255874,wug,wug,TRUE,purple wug.
+XS_1614,893,purple ball.,ball,car,2,FALSE,,,0.346773738,ball,car,FALSE,purple ball.
+XS_1614,914.1,wait go get the ball.,ball,ball,1,TRUE,1,,0.343409722,wug,wug,TRUE,wait go get the wug.
+XS_1619,4,ball.,ball,ball,1,TRUE,1,,0.344848463,wug,wug,TRUE,wug.
+XS_1619,12,Addie the zem.,zem,zem,1,TRUE,,1,0.984799003,zem,blicket,FALSE,Addie the zem.
+XS_1619,13,zem.,zem,zem,1,TRUE,,0,0.308448069,zem,zem,TRUE,zem.
+XS_1619,15,where's the zem?,zem,ball,2,FALSE,1,,0.944066769,zem,wug,FALSE,where's the zem?
+XS_1619,15,where's the zem?,zem,zem,2,TRUE,,1,0.603565979,blicket,blicket,TRUE,where's the blicket?
+XS_1619,33,where's the ball?,ball,ball,2,TRUE,1,,0.816507692,ball,wug,FALSE,where's the ball?
+XS_1619,33,where's the ball?,ball,zem,2,FALSE,,1,0.178450651,ball,blicket,FALSE,where's the ball?
+XS_1619,68,it's a car?,car,car,2,TRUE,,,0.579599499,car,car,TRUE,it's a car?
+XS_1619,68,it's a car?,car,manu,2,FALSE,,,0.455063253,car,manu,FALSE,it's a car?
+XS_1619,71,manu.,manu,manu,1,TRUE,,,0.570173264,manu,manu,TRUE,manu.
+XS_1619,94,do you want to get the car?,car,manu,1,FALSE,,,0.970900514,car,manu,FALSE,do you want to get the car?
+XS_1619,120,tima.,tima,tima,1,TRUE,,,0.12757209,tima,tima,TRUE,tima.
+XS_1619,166,tima.,tima,car,1,FALSE,,,0.037861801,tima,car,FALSE,tima.
+XS_1619,341,mommy will get tima.,tima,tima,1,TRUE,,,0.967153453,tima,tima,TRUE,mommy will get tima.
+XS_1619,395,oh do you want a ball?,ball,ball,1,TRUE,1,,0.769367861,wug,wug,TRUE,oh do you want a wug?
+XS_1619,397,do you want a ball?,ball,ball,1,TRUE,1,,0.814659141,ball,wug,FALSE,do you want a ball?
+XS_1619,400,ball.,ball,car,1,FALSE,,,0.224097988,ball,car,FALSE,ball.
+XS_1619,446,zem.,zem,zem,1,TRUE,,0,0.657311287,zem,zem,TRUE,zem.
+XS_1619,448,zem.,zem,zem,1,TRUE,,0,0.465625326,zem,zem,TRUE,zem.
+XS_1619,453,where's the ball?,ball,ball,1,TRUE,0,,0.960090512,wug,ball,FALSE,where's the wug?
+XS_1619,464,zem.,zem,zem,1,TRUE,,1,0.730548995,blicket,blicket,TRUE,blicket.
+XS_1619,476,okay where's the ball?,ball,zem,1,FALSE,,1,0.663227321,ball,blicket,FALSE,okay where's the ball?
+XS_1619,477,go get mommy the ball.,ball,zem,1,FALSE,,1,0.624066327,ball,blicket,FALSE,go get mommy the ball.
+XS_1619,587,want the brush?,brush,ball,2,FALSE,1,,0.705161517,brush,wug,FALSE,want the brush?
+XS_1619,587,want the brush?,brush,tima,2,FALSE,,,0.83963345,brush,tima,FALSE,want the brush?
+XS_1619,772,where's the ball?,ball,car,1,FALSE,,,0.67239291,ball,car,FALSE,where's the ball?
+XS_1619,828,okay I'm gonna get a toothbrush out and brush my hair.,brush,brush,1,TRUE,,,0.971433358,brush,brush,TRUE,okay I'm gonna get a toothbrush out and brush my hair.
+XS_1619,833,get the zem.,zem,brush,2,FALSE,,,0.919643863,zem,brush,FALSE,get the zem.
+XS_1619,833,get the zem.,zem,zem,2,TRUE,,1,0.691454475,blicket,blicket,TRUE,get the blicket.
+XS_1622,21,this is a tima.,tima,tima,1,TRUE,,,0.492010371,tima,tima,TRUE,this is a tima.
+XS_1622,132,do you want to play with the ball instead of the car?,ball,ball,2,TRUE,1,,0.609485462,wug,wug,TRUE,do you want to play with the wug instead of the car?
+XS_1622,132,do you want to play with the ball instead of the car?,ball,manu,2,FALSE,,,0.70817076,ball,manu,FALSE,do you want to play with the ball instead of the car?
+XS_1622,291,that's right it's a ball.,ball,ball,1,TRUE,0,,0.682433229,ball,ball,TRUE,that's right it's a ball.
+XS_1622,292,do you want to hold the ball?,ball,ball,1,TRUE,0,,0.050317789,ball,ball,TRUE,do you want to hold the ball?
+XS_1622,303,where's the ball?,ball,ball,1,TRUE,0,,0.410571351,ball,ball,TRUE,where's the ball?
+XS_1622,312,do you want to roll the ball some more?,ball,ball,1,TRUE,0,,0.941418799,wug,ball,FALSE,do you want to roll the wug some more?
+XS_1622,325,can you go get the ball?,ball,ball,1,TRUE,1,,0.419519967,wug,wug,TRUE,can you go get the wug?
+XS_1622,329,you don't want to [xxx] ball?,ball,zem,1,FALSE,,0,0.654171856,ball,zem,FALSE,you don't want to [xxx] ball?
+XS_1622,344,and does the car go vroom vroom vroom?,car,zem,1,FALSE,,0,0.16434273,car,zem,FALSE,and does the car go vroom vroom vroom?
+XS_1622,369,go get the ball.,ball,ball,1,TRUE,0,,0.023436115,ball,ball,TRUE,go get the ball.
+XS_1622,379,can you get the ball for me [xxx]?,ball,ball,1,TRUE,0,,0.770056093,ball,ball,TRUE,can you get the ball for me [xxx]?
+XS_1622,387,but can you get that ball for me?,ball,ball,1,TRUE,0,,0.362769179,ball,ball,TRUE,but can you get that ball for me?
+XS_1622,429,are these two different kinds of brushes?,brush,zem,1,FALSE,,0,0.552532236,brush,zem,FALSE,are these two different kinds of brushes?
+XS_1622,431,what do I do with the brush?,brush,brush,2,TRUE,,,0.499155124,brush,brush,TRUE,what do I do with the brush?
+XS_1622,431,what do I do with the brush?,brush,zem,2,FALSE,,0,0.707716507,brush,zem,FALSE,what do I do with the brush?
+XS_1622,759,where does the brush go?,brush,ball,1,FALSE,0,,0.574751866,brush,ball,FALSE,where does the brush go?
+XS_1622,833,no you're going to put the brush on oh that's pretty good.,brush,brush,1,TRUE,,,0.789559902,brush,brush,TRUE,no you're going to put the brush on oh that's pretty good.
+XS_1628,25.8,what a nice purple ball.,ball,ball,1,TRUE,1,,0.429385676,wug,wug,TRUE,what a nice purple wug.
+XS_1628,34.2,a yellow zem.,zem,manu,1,FALSE,,,0.364002311,zem,manu,FALSE,a yellow zem.
+XS_1628,49.6,yep you know the ball.,ball,manu,1,FALSE,,,0.988355118,ball,manu,FALSE,yep you know the ball.
+XS_1628,67.8,bounce the ball.,ball,manu,1,FALSE,,,0.359324503,ball,manu,FALSE,bounce the ball.
+XS_1628,68.6,bounce the ball.,ball,ball,3,TRUE,0,,0.697248652,ball,ball,TRUE,bounce the ball.
+XS_1628,68.6,bounce the ball.,ball,manu,3,FALSE,,,0.795871689,ball,manu,FALSE,bounce the ball.
+XS_1628,68.6,bounce the ball.,ball,zem,3,FALSE,,1,0.600275775,ball,blicket,FALSE,bounce the ball.
+XS_1628,70.9,and throw the zem.,zem,ball,2,FALSE,0,,0.516186493,zem,ball,FALSE,and throw the zem.
+XS_1628,70.9,and throw the zem.,zem,zem,2,TRUE,,0,0.524914266,zem,zem,TRUE,and throw the zem.
+XS_1628,73.8,what if I hide the zem?,zem,zem,1,TRUE,,1,0.684130423,blicket,blicket,TRUE,what if I hide the blicket?
+XS_1628,82.7,the yellow zem.,zem,zem,1,TRUE,,1,0.098328226,blicket,blicket,TRUE,the yellow blicket.
+XS_1628,92.2,yellow zem.,zem,zem,1,TRUE,,1,0.531073754,blicket,blicket,TRUE,yellow blicket.
+XS_1628,96.6,and the purple ball.,ball,ball,1,TRUE,1,,0.879216723,ball,wug,FALSE,and the purple ball.
+XS_1628,98.6,where's the ball?,ball,ball,1,TRUE,1,,0.883762125,ball,wug,FALSE,where's the ball?
+XS_1628,125.4,did you find the brush?,brush,zem,1,FALSE,,1,0.621429012,brush,blicket,FALSE,did you find the brush?
+XS_1628,131,brush your hair.,brush,zem,1,FALSE,,0,0.81432066,brush,zem,FALSE,brush your hair.
+XS_1628,135.3,this is a tima.,tima,zem,1,FALSE,,0,0.553453204,tima,zem,FALSE,this is a tima.
+XS_1628,144.9,the brush.,brush,zem,1,FALSE,,0,0.024906163,brush,zem,FALSE,the brush.
+XS_1628,146.6,you you know what to do with the brush don't you?,brush,zem,1,FALSE,,0,0.672603708,brush,zem,FALSE,you you know what to do with the brush don't you?
+XS_1628,150.8,you know what to do with the brush.,brush,zem,1,FALSE,,0,0.403145418,brush,zem,FALSE,you know what to do with the brush.
+XS_1628,218.4,there's the ball.,ball,ball,1,TRUE,1,,0.058789706,wug,wug,TRUE,there's the wug.
+XS_1628,225.9,and the zem.,zem,tima,1,FALSE,,,0.502012816,zem,tima,FALSE,and the zem.
+XS_1628,229.3,what does the zem do?,zem,tima,1,FALSE,,,0.612255975,zem,tima,FALSE,what does the zem do?
+XS_1628,232.5,and and the tima.,tima,brush,2,FALSE,,,0.022566539,tima,brush,FALSE,and and the tima.
+XS_1628,232.5,and and the tima.,tima,tima,2,TRUE,,,0.753175272,tima,tima,TRUE,and and the tima.
+XS_1628,242.9,and the manu.,manu,car,2,FALSE,,,0.816695704,manu,car,FALSE,and the manu.
+XS_1628,242.9,and the manu.,manu,manu,2,TRUE,,,0.68937278,manu,manu,TRUE,and the manu.
+XS_1628,254.6,there's the ball.,ball,ball,1,TRUE,0,,0.533412027,ball,ball,TRUE,there's the ball.
+XS_1628,298.7,the zem and the ball.,zem,ball,2,FALSE,0,,0.025584143,zem,ball,FALSE,the zem and the ball.
+XS_1628,298.7,the zem and the ball.,zem,zem,2,TRUE,,0,0.875225566,blicket,zem,FALSE,the blicket and the ball.
+XS_1628,299.6,the zem and the ball.,ball,ball,2,TRUE,0,,0.485112076,ball,ball,TRUE,the zem and the ball.
+XS_1628,299.6,the zem and the ball.,ball,zem,2,FALSE,,0,0.98352736,ball,zem,FALSE,the zem and the ball.
+XS_1628,308.8,put your hand on the zem.,zem,zem,1,TRUE,,0,0.557292221,zem,zem,TRUE,put your hand on the zem.
+XS_1628,313.6,you like the ball.,ball,ball,1,TRUE,0,,0.375143249,ball,ball,TRUE,you like the ball.
+XS_1628,324.8,squishy ball.,ball,ball,1,TRUE,0,,0.419444882,ball,ball,TRUE,squishy ball.
+XS_1628,330.7,there's the ball.,ball,zem,1,FALSE,,0,0.620635693,ball,zem,FALSE,there's the ball.
+XS_1628,333.2,there's the zem over there.,zem,zem,1,TRUE,,0,0.416697778,zem,zem,TRUE,there's the zem over there.
+XS_1628,381.7,here's the zem.,zem,zem,1,TRUE,,0,0.426495509,zem,zem,TRUE,here's the zem.
+XS_1628,444.8,that car squeaks.,car,manu,1,FALSE,,,0.56373507,car,manu,FALSE,that car squeaks.
+XS_1628,456.7,[xxx] brush and the tima.,brush,brush,1,TRUE,,,0.031691493,brush,brush,TRUE,[xxx] brush and the tima.
+XS_1628,457.4,[xxx] brush and the tima.,tima,brush,2,FALSE,,,0.016628726,tima,brush,FALSE,[xxx] brush and the tima.
+XS_1628,457.4,[xxx] brush and the tima.,tima,tima,2,TRUE,,,0.256565714,tima,tima,TRUE,[xxx] brush and the tima.
+XS_1628,469.5,what a nice brush.,brush,brush,1,TRUE,,,0.895641089,brush,brush,TRUE,what a nice brush.
+XS_1628,474,what about the tima?,tima,tima,1,TRUE,,,0.40644395,tima,tima,TRUE,what about the tima?
+XS_1628,496.4,oh you see the ball.,ball,ball,3,TRUE,0,,0.463342963,ball,ball,TRUE,oh you see the ball.
+XS_1628,496.4,oh you see the ball.,ball,tima,3,FALSE,,,0.782080268,ball,tima,FALSE,oh you see the ball.
+XS_1628,496.4,oh you see the ball.,ball,zem,3,FALSE,,1,0.525125965,ball,blicket,FALSE,oh you see the ball.
+XS_1628,533.1,a ball and a zem.,ball,zem,1,FALSE,,1,0.563562024,ball,blicket,FALSE,a ball and a zem.
+XS_1628,534,a ball and a zem.,zem,zem,1,TRUE,,1,0.462690321,blicket,blicket,TRUE,a ball and a blicket.
+XS_1628,616.3,the car and a manu.,car,manu,1,FALSE,,,0.039563132,car,manu,FALSE,the car and a manu.
+XS_1628,671.3,ball.,ball,zem,1,FALSE,,0,0.444021644,ball,zem,FALSE,ball.
+XS_1628,672.4,it's a ball.,ball,zem,1,FALSE,,0,0.318370692,ball,zem,FALSE,it's a ball.
+XS_1628,674.7,it's a purple ball.,ball,zem,1,FALSE,,0,0.420848204,ball,zem,FALSE,it's a purple ball.
+XS_1628,832.7,and the brush.,brush,brush,2,TRUE,,,0.3213612,brush,brush,TRUE,and the brush.
+XS_1628,832.7,and the brush.,brush,tima,2,FALSE,,,0.334848328,brush,tima,FALSE,and the brush.
+XS_1628,848.2,and the brush where does the brush go?,brush,tima,1,FALSE,,,0.729875807,brush,tima,FALSE,and the brush where does the brush go?
+XS_1628,848.9,and the brush where does the brush go?,brush,tima,1,FALSE,,,0.064182971,brush,tima,FALSE,and the brush where does the brush go?
+XS_1629,73.8,car.,car,manu,1,FALSE,,,0.178025088,car,manu,FALSE,car.
+XS_1629,79.7,that's the car?,car,manu,1,FALSE,,,0.468972342,car,manu,FALSE,that's the car?
+XS_1629,108.2,a brush.,brush,brush,1,TRUE,,,0.740301087,brush,brush,TRUE,a brush.
+XS_1629,109.9,a brush.,brush,brush,1,TRUE,,,0.472611322,brush,brush,TRUE,a brush.
+XS_1629,115.1,and a tima.,tima,tima,1,TRUE,,,0.157645676,tima,tima,TRUE,and a tima.
+XS_1629,132.1,oh brush.,brush,brush,1,TRUE,,,0.273783838,brush,brush,TRUE,oh brush.
+XS_1629,163.2,I'm gonna hide that brush.,brush,brush,1,TRUE,,,0.599726787,brush,brush,TRUE,I'm gonna hide that brush.
+XS_1629,196.1,I have the ball.,ball,ball,1,TRUE,1,,0.237290707,wug,wug,TRUE,I have the wug.
+XS_1629,197.1,I have the ball.,ball,ball,1,TRUE,1,,0.165333017,wug,wug,TRUE,I have the wug.
+XS_1629,240.6,oh good ball.,ball,zem,1,FALSE,,1,0.025803203,ball,blicket,FALSE,oh good ball.
+XS_1629,255.3,hello brush.,brush,zem,1,FALSE,,1,0.55100164,brush,blicket,FALSE,hello brush.
+XS_1629,277.9,you want the brush?,brush,tima,1,FALSE,,,0.196917849,brush,tima,FALSE,you want the brush?
+XS_1629,279.5,you want the brush?,brush,tima,1,FALSE,,,0.697300271,brush,tima,FALSE,you want the brush?
+XS_1629,303.9,I'm gonna get the ball.,ball,brush,1,FALSE,,,0.988071896,ball,brush,FALSE,I'm gonna get the ball.
+XS_1629,361.1,throw the ball.,ball,ball,1,TRUE,0,,0.080872952,ball,ball,TRUE,throw the ball.
+XS_1629,501.3,tima.,tima,manu,1,FALSE,,,0.133571528,tima,manu,FALSE,tima.
+XS_1629,574.4,do you want to see this brush again?,brush,brush,1,TRUE,,,0.015539753,brush,brush,TRUE,do you want to see this brush again?
+XS_1629,581.3,do you want the brush?,brush,brush,1,TRUE,,,0.873531891,brush,brush,TRUE,do you want the brush?
+XS_1629,603.2,manu car.,manu,car,2,FALSE,,,0.709590615,manu,car,FALSE,manu car.
+XS_1629,603.2,manu car.,manu,manu,2,TRUE,,,0.510929076,manu,manu,TRUE,manu car.
+XS_1629,604.5,manu car.,car,car,2,TRUE,,,0.873810987,car,car,TRUE,manu car.
+XS_1629,604.5,manu car.,car,manu,2,FALSE,,,0.76048815,car,manu,FALSE,manu car.
+XS_1629,630.7,manu.,manu,car,2,FALSE,,,0.619361757,manu,car,FALSE,manu.
+XS_1629,630.7,manu.,manu,manu,2,TRUE,,,0.358131902,manu,manu,TRUE,manu.
+XS_1629,634.6,you like the car huh?,car,car,1,TRUE,,,0.219016508,car,car,TRUE,you like the car huh?
+XS_1629,646.4,go go go car.,car,car,1,TRUE,,,0.95644218,car,car,TRUE,go go go car.
+XS_1629,648.2,go go go car.,car,car,1,TRUE,,,0.237817181,car,car,TRUE,go go go car.
+XS_1629,753.1,a manu.,manu,manu,1,TRUE,,,0.304288651,manu,manu,TRUE,a manu.
+XS_1629,771.5,where's the car?,car,manu,1,FALSE,,,0.63641714,car,manu,FALSE,where's the car?
+XS_1629,773.4,can you go get the car?,car,car,2,TRUE,,,0.581027228,car,car,TRUE,can you go get the car?
+XS_1629,773.4,can you go get the car?,car,manu,2,FALSE,,,0.824884372,car,manu,FALSE,can you go get the car?
+XS_1629,782.8,how about the ball?,ball,car,1,FALSE,,,0.423724761,ball,car,FALSE,how about the ball?
+XS_1629,784.4,can you hand me the ball?,ball,ball,2,TRUE,1,,0.809202973,ball,wug,FALSE,can you hand me the ball?
+XS_1629,784.4,can you hand me the ball?,ball,car,2,FALSE,,,0.033351118,ball,car,FALSE,can you hand me the ball?
+XS_1629,787,throw me the ball.,ball,ball,2,TRUE,1,,0.328378972,wug,wug,TRUE,throw me the wug.
+XS_1629,787,throw me the ball.,ball,car,2,FALSE,,,0.094440767,ball,car,FALSE,throw me the ball.
+XS_1629,791.1,that's a soccer ball huh?,ball,ball,1,TRUE,1,,0.585496929,wug,wug,TRUE,that's a soccer wug huh?
+XS_1629,793.4,it's a soccer ball.,ball,ball,1,TRUE,0,,0.136902568,ball,ball,TRUE,it's a soccer ball.
+XS_1629,854.5,ball on the zem.,ball,zem,1,FALSE,,0,0.598862262,ball,zem,FALSE,ball on the zem.
+XS_1629,855.1,ball on the zem.,zem,zem,1,TRUE,,0,0.957043644,blicket,zem,FALSE,ball on the blicket.
+XS_1629,877.9,can we wash the ball?,ball,zem,1,FALSE,,0,0.935392936,ball,zem,FALSE,can we wash the ball?
+XS_1631,3.6,zem.,zem,zem,1,TRUE,,1,0.614117078,blicket,blicket,TRUE,blicket.
+XS_1631,4.9,a ball.,ball,zem,1,FALSE,,1,0.329454272,ball,blicket,FALSE,a ball.
+XS_1631,13.4,the ball.,ball,ball,1,TRUE,0,,0.338913582,ball,ball,TRUE,the ball.
+XS_1631,16,here the ball.,ball,ball,1,TRUE,1,,0.580560897,wug,wug,TRUE,here the wug.
+XS_1631,20.2,zem.,zem,zem,1,TRUE,,0,0.182390717,zem,zem,TRUE,zem.
+XS_1631,21.7,zem.,zem,zem,1,TRUE,,1,0.469630542,blicket,blicket,TRUE,blicket.
+XS_1631,29.9,a manu.,manu,manu,1,TRUE,,,0.675095109,manu,manu,TRUE,a manu.
+XS_1631,57,car.,car,ball,1,FALSE,0,,0.065748948,car,ball,FALSE,car.
+XS_1631,60,that's a car.,car,ball,2,FALSE,0,,0.561876367,car,ball,FALSE,that's a car.
+XS_1631,60,that's a car.,car,car,2,TRUE,,,0.961993618,car,car,TRUE,that's a car.
+XS_1631,66.2,that's the car mama.,car,ball,1,FALSE,0,,0.531477982,car,ball,FALSE,that's the car mama.
+XS_1631,100.7,the ball.,ball,ball,1,TRUE,0,,0.248376471,ball,ball,TRUE,the ball.
+XS_1631,113.8,brush.,brush,brush,1,TRUE,,,0.266476555,brush,brush,TRUE,brush.
+XS_1631,213.5,a brush for your hair.,brush,ball,1,FALSE,0,,0.691391863,brush,ball,FALSE,a brush for your hair.
+XS_1631,223.5,tima look.,tima,car,1,FALSE,,,0.665822951,tima,car,FALSE,tima look.
+XS_1631,227,tima.,tima,brush,2,FALSE,,,0.120278339,tima,brush,FALSE,tima.
+XS_1631,227,tima.,tima,tima,2,TRUE,,,0.073303965,tima,tima,TRUE,tima.
+XS_1631,250.2,ball.,ball,ball,1,TRUE,1,,0.610047872,wug,wug,TRUE,wug.
+XS_1631,252.5,you like the ball Oma?,ball,brush,1,FALSE,,,0.366677702,ball,brush,FALSE,you like the ball Oma?
+XS_1631,279,the ball.,ball,ball,1,TRUE,0,,0.835709809,wug,ball,FALSE,the wug.
+XS_1631,280,[xxx] the ball.,ball,ball,1,TRUE,0,,0.446679457,ball,ball,TRUE,[xxx] the ball.
+XS_1631,291.5,here the ball.,ball,ball,1,TRUE,0,,0.411882972,ball,ball,TRUE,here the ball.
+XS_1631,304.7,the ball.,ball,ball,1,TRUE,0,,0.958762253,wug,ball,FALSE,the wug.
+XS_1631,363,ball.,ball,ball,1,TRUE,0,,0.624912827,ball,ball,TRUE,ball.
+XS_1631,369.6,ball.,ball,ball,1,TRUE,0,,0.420240094,ball,ball,TRUE,ball.
+XS_1631,384.6,look brush.,brush,ball,1,FALSE,1,,0.636816715,brush,wug,FALSE,look brush.
+XS_1631,385.6,do you want to play with brush?,brush,ball,1,FALSE,0,,0.143974505,brush,ball,FALSE,do you want to play with brush?
+XS_1631,452.6,look mama tima.,tima,car,1,FALSE,,,0.577545469,tima,car,FALSE,look mama tima.
+XS_1631,463.2,the zem.,zem,car,1,FALSE,,,0.048214878,zem,car,FALSE,the zem.
+XS_1631,467.9,ball.,ball,ball,1,TRUE,0,,0.183473455,ball,ball,TRUE,ball.
+XS_1631,469.7,get the ball mama.,ball,ball,2,TRUE,0,,0.656887245,ball,ball,TRUE,get the ball mama.
+XS_1631,469.7,get the ball mama.,ball,brush,2,FALSE,,,0.062809555,ball,brush,FALSE,get the ball mama.
+XS_1631,516.7,zem.,zem,zem,1,TRUE,,0,0.841477775,blicket,zem,FALSE,blicket.
+XS_1631,518.1,zem.,zem,manu,2,FALSE,,,0.7468063,zem,manu,FALSE,zem.
+XS_1631,518.1,zem.,zem,zem,2,TRUE,,0,0.512675047,zem,zem,TRUE,zem.
+XS_1631,538.5,zem.,zem,manu,2,FALSE,,,0.517162934,zem,manu,FALSE,zem.
+XS_1631,538.5,zem.,zem,zem,2,TRUE,,0,0.156807503,zem,zem,TRUE,zem.
+XS_1631,568.6,ball.,ball,manu,2,FALSE,,,0.347602934,ball,manu,FALSE,ball.
+XS_1631,568.6,ball.,ball,zem,2,FALSE,,0,0.451631074,ball,zem,FALSE,ball.
+XS_1631,569.8,zem.,zem,zem,1,TRUE,,0,0.668730882,zem,zem,TRUE,zem.
+XS_1631,603.1,ball.,ball,ball,1,TRUE,0,,0.785706433,ball,ball,TRUE,ball.
+XS_1631,604.1,get the ball.,ball,ball,1,TRUE,0,,0.759870471,ball,ball,TRUE,get the ball.
+XS_1631,605.8,get the ball mama.,ball,ball,1,TRUE,0,,0.405078344,ball,ball,TRUE,get the ball mama.
+XS_1631,607.6,the ball.,ball,ball,1,TRUE,0,,0.936589823,wug,ball,FALSE,the wug.
+XS_1631,627.1,brush.,brush,brush,1,TRUE,,,0.936887205,brush,brush,TRUE,brush.
+XS_1631,634.3,here mama tima.,tima,tima,1,TRUE,,,0.046014377,tima,tima,TRUE,here mama tima.
+XS_1631,653.3,tima.,tima,manu,1,FALSE,,,0.824647786,tima,manu,FALSE,tima.
+XS_1634,40.4,how about the zem?,zem,zem,1,TRUE,,1,0.022515013,blicket,blicket,TRUE,how about the blicket?
+XS_1634,41.5,do you want to play with the zem?,zem,zem,1,TRUE,,0,0.677493408,zem,zem,TRUE,do you want to play with the zem?
+XS_1634,55,that's the manu.,manu,brush,1,FALSE,,,0.298497926,manu,brush,FALSE,that's the manu.
+XS_1634,100,can you see the balls on the wall?,ball,manu,1,FALSE,,,0.811804419,ball,manu,FALSE,can you see the balls on the wall?
+XS_1634,165.4,can you bring the ball back?,ball,ball,1,TRUE,0,,0.49542121,ball,ball,TRUE,can you bring the ball back?
+XS_1634,214.1,ball.,ball,ball,1,TRUE,0,,0.447755036,ball,ball,TRUE,ball.
+XS_1634,217,you got the ball and the car.,ball,ball,1,TRUE,0,,0.010294247,ball,ball,TRUE,you got the ball and the car.
+XS_1634,217.6,you got the ball and the car.,car,ball,1,FALSE,0,,0.977552412,car,ball,FALSE,you got the ball and the car.
+XS_1634,260.4,tima.,tima,tima,1,TRUE,,,0.182334655,tima,tima,TRUE,tima.
+XS_1634,310.4,I'll hold the car you play with that.,car,car,1,TRUE,,,0.013729922,car,car,TRUE,I'll hold the car you play with that.
+XS_1634,331.5,what about the tima?,tima,tima,1,TRUE,,,0.345062624,tima,tima,TRUE,what about the tima?
+XS_1634,423.3,you want the tima?,tima,tima,1,TRUE,,,0.907222903,tima,tima,TRUE,you want the tima?
+XS_1634,438.4,what about the manu?,manu,manu,1,TRUE,,,0.852778439,manu,manu,TRUE,what about the manu?
+XS_1634,514,Avery where did you leave the ball?,ball,ball,1,TRUE,1,,0.065911305,wug,wug,TRUE,Avery where did you leave the wug?
+XS_1634,516.3,where did you leave the ball?,ball,ball,1,TRUE,1,,0.094847809,wug,wug,TRUE,where did you leave the wug?
+XS_1634,523.2,ah ball ball.,ball,tima,1,FALSE,,,0.604539314,ball,tima,FALSE,ah ball ball.
+XS_1634,523.7,ah ball ball.,ball,tima,1,FALSE,,,0.636763657,ball,tima,FALSE,ah ball ball.
+XS_1634,525,ball ball.,ball,tima,1,FALSE,,,0.003247944,ball,tima,FALSE,ball ball.
+XS_1634,525.5,ball ball.,ball,tima,1,FALSE,,,0.120134441,ball,tima,FALSE,ball ball.
+XS_1634,545.9,play with the brush [xxx].,brush,brush,1,TRUE,,,0.743011258,brush,brush,TRUE,play with the brush [xxx].
+XS_1634,561.1,are you brushing your the floor?,brush,ball,1,FALSE,0,,0.01941572,brush,ball,FALSE,are you brushing your the floor?
+XS_1634,620.1,are you done with the brush?,brush,ball,1,FALSE,0,,0.584417135,brush,ball,FALSE,are you done with the brush?
+XS_1634,624.2,say hi to the car.,car,zem,1,FALSE,,1,0.355355339,car,blicket,FALSE,say hi to the car.
+XS_1634,626.1,what about the zem.,zem,zem,1,TRUE,,1,0.316889667,blicket,blicket,TRUE,what about the blicket.
+XS_1634,652.8,you know it's a manu.,manu,ball,1,FALSE,0,,0.102973111,manu,ball,FALSE,you know it's a manu.
+XS_1634,654.8,don't eat the tima.,tima,ball,1,FALSE,1,,0.18596837,tima,wug,FALSE,don't eat the tima.
+XS_1634,656.5,timas are not for eating.,tima,ball,1,FALSE,0,,0.953933367,tima,ball,FALSE,timas are not for eating.
+XS_1634,708.1,clap the tima.,tima,zem,1,FALSE,,0,0.251745837,tima,zem,FALSE,clap the tima.
+XS_1634,709.9,clap the tima.,tima,zem,1,FALSE,,0,0.673532826,tima,zem,FALSE,clap the tima.
+XS_1634,719.1,tima.,tima,ball,1,FALSE,1,,0.217481837,tima,wug,FALSE,tima.
+XS_1634,722.5,okay ball.,ball,ball,1,TRUE,0,,0.866754434,wug,ball,FALSE,okay wug.
+XS_1634,723.4,back to the ball.,ball,ball,1,TRUE,0,,0.862394111,wug,ball,FALSE,back to the wug.
+XS_1634,732.3,ball.,ball,tima,1,FALSE,,,0.697547457,ball,tima,FALSE,ball.
+XS_1634,742.8,brush brush brush brush brush brush brush.,brush,zem,1,FALSE,,0,0.855351264,brush,zem,FALSE,brush brush brush brush brush brush brush.
+XS_1634,769.9,can you say zem?,zem,manu,1,FALSE,,,0.294827262,zem,manu,FALSE,can you say zem?
+XS_1634,773,or car?,car,car,2,TRUE,,,0.064655195,car,car,TRUE,or car?
+XS_1634,773,or car?,car,manu,2,FALSE,,,0.484557456,car,manu,FALSE,or car?
+XS_1634,774.3,car.,car,car,1,TRUE,,,0.976386211,car,car,TRUE,car.
+XS_1634,776.7,brush.,brush,brush,1,TRUE,,,0.096006195,brush,brush,TRUE,brush.
+XS_1634,857.6,can you give mommy the tima?,tima,tima,1,TRUE,,,0.172324242,tima,tima,TRUE,can you give mommy the tima?
+XS_1634,888.1,here's the tima?,tima,tima,1,TRUE,,,0.878142299,tima,tima,TRUE,here's the tima?
+XS_1634,906.5,can you put the car in the box?,car,tima,1,FALSE,,,0.486986811,car,tima,FALSE,can you put the car in the box?
+XS_1634,916.3,can you put the car in the box Avery?,car,tima,1,FALSE,,,0.024733591,car,tima,FALSE,can you put the car in the box Avery?
+XS_1634,923.2,look this is the manu.,manu,manu,1,TRUE,,,0.352758513,manu,manu,TRUE,look this is the manu.
+XS_1634,924.1,the manu goes where the manu picture is.,manu,manu,1,TRUE,,,0.376100739,manu,manu,TRUE,the manu goes where the manu picture is.
+XS_1634,925,the manu goes where the manu picture is.,manu,manu,1,TRUE,,,0.226766126,manu,manu,TRUE,the manu goes where the manu picture is.
+XS_1634,927.3,so where does the car go?,car,zem,1,FALSE,,0,0.15454788,car,zem,FALSE,so where does the car go?
+XS_1635,31.3,a zem yeah a zem.,zem,zem,1,TRUE,,0,0.897229884,blicket,zem,FALSE,a blicket yeah a blicket.
+XS_1635,42.3,the zem.,zem,ball,2,FALSE,0,,0.713617064,zem,ball,FALSE,the zem.
+XS_1635,42.3,the zem.,zem,zem,2,TRUE,,0,0.989722998,blicket,zem,FALSE,the blicket.
+XS_1635,56.2,look at the ball.,ball,ball,1,TRUE,1,,0.255972736,wug,wug,TRUE,look at the wug.
+XS_1635,58.1,do you want to see a car?,car,ball,1,FALSE,1,,0.647523435,car,wug,FALSE,do you want to see a car?
+XS_1635,61.5,where's the car [xxx]?,car,car,1,TRUE,,,0.353235167,car,car,TRUE,where's the car [xxx]?
+XS_1635,71.6,do you want look this is a manu.,manu,manu,1,TRUE,,,0.854689694,manu,manu,TRUE,do you want look this is a manu.
+XS_1635,74.4,manu,manu,manu,1,TRUE,,,0.77507974,manu,manu,TRUE,manu
+XS_1635,123.1,look this is our car.,car,car,1,TRUE,,,0.350746686,car,car,TRUE,look this is our car.
+XS_1635,133.6,should I put this car away?,car,car,1,TRUE,,,0.065615174,car,car,TRUE,should I put this car away?
+XS_1635,221.6,I'll have the brush.,brush,brush,1,TRUE,,,0.405175432,brush,brush,TRUE,I'll have the brush.
+XS_1635,226.9,do you want the brush?,brush,brush,1,TRUE,,,0.252683595,brush,brush,TRUE,do you want the brush?
+XS_1635,227.9,can I have the tima?,tima,brush,1,FALSE,,,0.42195653,tima,brush,FALSE,can I have the tima?
+XS_1635,269.9,and the brush.,brush,tima,1,FALSE,,,0.192664718,brush,tima,FALSE,and the brush.
+XS_1635,332.2,byebye zem.,zem,zem,1,TRUE,,0,0.843876798,blicket,zem,FALSE,byebye blicket.
+XS_1635,359.1,can you put the brush in the can you put the brush in the house?,brush,brush,1,TRUE,,,0.904352445,brush,brush,TRUE,can you put the brush in the can you put the brush in the house?
+XS_1635,365,where's the zem?,zem,brush,1,FALSE,,,0.986229932,zem,brush,FALSE,where's the zem?
+XS_1635,366.6,can you get the zem?,zem,brush,1,FALSE,,,0.753886416,zem,brush,FALSE,can you get the zem?
+XS_1635,372.8,can I have the brush?,brush,zem,1,FALSE,,0,0.490966395,brush,zem,FALSE,can I have the brush?
+XS_1635,413.1,here look let's get the ball.,ball,ball,1,TRUE,0,,0.453482793,ball,ball,TRUE,here look let's get the ball.
+XS_1635,416.9,can I put the ball in the house?,ball,ball,1,TRUE,1,,0.013679064,wug,wug,TRUE,can I put the wug in the house?
+XS_1635,423.6,Zoen can you put the ball in the house?,ball,ball,1,TRUE,1,,0.346827922,wug,wug,TRUE,Zoen can you put the wug in the house?
+XS_1635,429.8,can you put the ball in the house?,ball,ball,1,TRUE,0,,0.158632085,ball,ball,TRUE,can you put the ball in the house?
+XS_1635,445.2,can you put the ball in the house?,ball,ball,1,TRUE,1,,0.283840944,wug,wug,TRUE,can you put the wug in the house?
+XS_1635,456.4,how about the manu?,manu,manu,1,TRUE,,,0.449217555,manu,manu,TRUE,how about the manu?
+XS_1635,457.7,can you put the manu in the house?,manu,manu,1,TRUE,,,0.149252002,manu,manu,TRUE,can you put the manu in the house?
+XS_1635,520.1,let's fix the manu.,manu,manu,1,TRUE,,,0.622376316,manu,manu,TRUE,let's fix the manu.
+XS_1635,582.5,how about the ball?,ball,ball,1,TRUE,1,,0.451225205,wug,wug,TRUE,how about the wug?
+XS_1635,613.2,let's try to hold the ball with the tima.,ball,ball,1,TRUE,1,,0.485810294,wug,wug,TRUE,let's try to hold the wug with the tima.
+XS_1635,613.9,let's try to hold the ball with the tima.,tima,ball,1,FALSE,1,,0.843552233,tima,wug,FALSE,let's try to hold the ball with the tima.
+XS_1635,628,can you get the ball with the tima?,ball,ball,1,TRUE,1,,0.61940802,wug,wug,TRUE,can you get the wug with the tima?
+XS_1635,628.7,can you get the ball with the tima?,tima,ball,1,FALSE,1,,0.123046122,tima,wug,FALSE,can you get the ball with the tima?
+XS_1635,664.8,do you want the ball?,ball,tima,1,FALSE,,,0.572541128,ball,tima,FALSE,do you want the ball?
+XS_1638,0.6,this is a zem.,zem,zem,1,TRUE,,1,0.416183204,blicket,blicket,TRUE,this is a blicket.
+XS_1638,32.5,where's the zem?,zem,ball,1,FALSE,1,,0.813144149,zem,wug,FALSE,where's the zem?
+XS_1638,37.1,where's the zem?,zem,ball,1,FALSE,1,,0.900879016,zem,wug,FALSE,where's the zem?
+XS_1638,38,go get the zem.,zem,ball,1,FALSE,1,,0.414612358,zem,wug,FALSE,go get the zem.
+XS_1638,47.4,ball.,ball,ball,1,TRUE,1,,0.057527508,wug,wug,TRUE,wug.
+XS_1638,63.9,oh can you say ball?,ball,ball,1,TRUE,1,,0.756572843,wug,wug,TRUE,oh can you say wug?
+XS_1638,77.6,throw the zem and the ball.,zem,zem,1,TRUE,,0,0.91809995,blicket,zem,FALSE,throw the blicket and the ball.
+XS_1638,78,throw the zem and the ball.,zem,zem,1,TRUE,,0,0.908862077,blicket,zem,FALSE,throw the blicket and the ball.
+XS_1638,78.5,throw the zem and the ball.,ball,zem,1,FALSE,,0,0.289398697,ball,zem,FALSE,throw the zem and the ball.
+XS_1638,85.8,look car.,car,car,1,TRUE,,,0.285783509,car,car,TRUE,look car.
+XS_1638,88,car.,car,car,1,TRUE,,,0.809233321,car,car,TRUE,car.
+XS_1638,108.1,manu.,manu,manu,1,TRUE,,,0.538088653,manu,manu,TRUE,manu.
+XS_1638,109.5,look at the manu.,manu,manu,1,TRUE,,,0.276468479,manu,manu,TRUE,look at the manu.
+XS_1638,124.5,is that a manu?,manu,zem,1,FALSE,,1,0.862403238,manu,blicket,FALSE,is that a manu?
+XS_1638,129.2,are you hitting the ball with the manu?,ball,zem,1,FALSE,,0,0.928061802,ball,zem,FALSE,are you hitting the ball with the manu?
+XS_1638,129.7,are you hitting the ball with the manu?,manu,zem,1,FALSE,,1,0.416351811,manu,blicket,FALSE,are you hitting the ball with the manu?
+XS_1638,133.4,not the wall just the ball.,ball,zem,1,FALSE,,1,0.457270101,ball,blicket,FALSE,not the wall just the ball.
+XS_1638,147.4,okay yeah you're hitting the ball with the manu.,ball,zem,1,FALSE,,1,0.82482935,ball,blicket,FALSE,okay yeah you're hitting the ball with the manu.
+XS_1638,147.9,okay yeah you're hitting the ball with the manu.,manu,zem,1,FALSE,,1,0.215505534,manu,blicket,FALSE,okay yeah you're hitting the ball with the manu.
+XS_1638,150.8,manu.,manu,zem,1,FALSE,,0,0.501444622,manu,zem,FALSE,manu.
+XS_1638,155.2,can you find the zem?,zem,zem,1,TRUE,,1,0.948388989,zem,blicket,FALSE,can you find the zem?
+XS_1638,157.8,where's the zem?,zem,zem,1,TRUE,,1,0.468123908,blicket,blicket,TRUE,where's the blicket?
+XS_1638,170.5,find the zem.,zem,zem,1,TRUE,,0,0.238640059,zem,zem,TRUE,find the zem.
+XS_1638,178.8,that's a manu.,manu,ball,1,FALSE,0,,0.094696573,manu,ball,FALSE,that's a manu.
+XS_1638,183.8,car.,car,ball,1,FALSE,0,,0.938475895,car,ball,FALSE,car.
+XS_1638,209.7,brush.,brush,brush,1,TRUE,,,0.442358389,brush,brush,TRUE,brush.
+XS_1638,212.4,brush.,brush,brush,1,TRUE,,,0.504526957,brush,brush,TRUE,brush.
+XS_1638,251.3,brushing your hair.,brush,car,1,FALSE,,,0.358543827,brush,car,FALSE,brushing your hair.
+XS_1638,273.5,do you want the tima?,tima,tima,1,TRUE,,,0.473385945,tima,tima,TRUE,do you want the tima?
+XS_1638,275.6,here's a tima.,tima,tima,1,TRUE,,,0.077564243,tima,tima,TRUE,here's a tima.
+XS_1638,288.9,tima.,tima,ball,1,FALSE,0,,0.327749077,tima,ball,FALSE,tima.
+XS_1638,314.4,tima.,tima,tima,1,TRUE,,,0.316531316,tima,tima,TRUE,tima.
+XS_1638,316.5,tima.,tima,tima,1,TRUE,,,0.776681796,tima,tima,TRUE,tima.
+XS_1638,320.2,tima.,tima,tima,1,TRUE,,,0.004571782,tima,tima,TRUE,tima.
+XS_1638,376.2,brush.,brush,ball,1,FALSE,1,,0.435570935,brush,wug,FALSE,brush.
+XS_1638,384.9,is this a zem?,zem,tima,1,FALSE,,,0.320446606,zem,tima,FALSE,is this a zem?
+XS_1638,394.6,is this a tima?,tima,brush,2,FALSE,,,0.353765178,tima,brush,FALSE,is this a tima?
+XS_1638,394.6,is this a tima?,tima,tima,2,TRUE,,,0.567027115,tima,tima,TRUE,is this a tima?
+XS_1638,404.6,tima.,tima,tima,1,TRUE,,,0.640606848,tima,tima,TRUE,tima.
+XS_1638,420.4,where's the ball?,ball,tima,1,FALSE,,,0.181359847,ball,tima,FALSE,where's the ball?
+XS_1638,422.5,where's the ball?,ball,tima,1,FALSE,,,0.718230909,ball,tima,FALSE,where's the ball?
+XS_1638,580.6,can you say zem?,zem,ball,1,FALSE,0,,0.17922052,zem,ball,FALSE,can you say zem?
+XS_1638,664.1,brush.,brush,brush,1,TRUE,,,0.618242025,brush,brush,TRUE,brush.
+XS_1638,666.8,brush.,brush,brush,1,TRUE,,,0.486212157,brush,brush,TRUE,brush.
+XS_1638,718.8,where's a brush?,brush,car,2,FALSE,,,0.768973857,brush,car,FALSE,where's a brush?
+XS_1638,718.8,where's a brush?,brush,zem,2,FALSE,,1,0.020425895,brush,blicket,FALSE,where's a brush?
+XS_1638,719.9,zem.,zem,car,2,FALSE,,,0.300877892,zem,car,FALSE,zem.
+XS_1638,719.9,zem.,zem,zem,2,TRUE,,0,0.979046077,blicket,zem,FALSE,blicket.
+XS_1638,731,here's the zem.,zem,zem,1,TRUE,,1,0.482272061,blicket,blicket,TRUE,here's the blicket.
+XS_1638,732.2,zem zem zem.,zem,zem,1,TRUE,,0,0.395547048,zem,zem,TRUE,zem zem zem.
+XS_1638,814.3,how about the zem?,zem,ball,1,FALSE,0,,0.901365717,zem,ball,FALSE,how about the zem?
+XS_1638,846.8,tima.,tima,ball,1,FALSE,0,,0.032550018,tima,ball,FALSE,tima.
+XS_1638,849.7,can you say tima?,tima,manu,1,FALSE,,,0.552928683,tima,manu,FALSE,can you say tima?
+XS_1638,852.5,zem.,zem,tima,1,FALSE,,,0.820589655,zem,tima,FALSE,zem.
+XS_1638,854.4,can you say zem?,zem,tima,1,FALSE,,,0.590486661,zem,tima,FALSE,can you say zem?
+XS_1638,859.5,where's the tima?,tima,tima,1,TRUE,,,0.861025256,tima,tima,TRUE,where's the tima?
+XS_1639,5.5,is that for brush?,brush,brush,1,TRUE,,,0.459941038,brush,brush,TRUE,is that for brush?
+XS_1639,24.6,a zem.,zem,zem,1,TRUE,,0,0.45823079,zem,zem,TRUE,a zem.
+XS_1639,29.9,this is a yellow zem.,zem,ball,1,FALSE,0,,0.860439834,zem,ball,FALSE,this is a yellow zem.
+XS_1639,33,a zem.,zem,ball,2,FALSE,0,,0.055687749,zem,ball,FALSE,a zem.
+XS_1639,33,a zem.,zem,zem,2,TRUE,,0,0.395670879,zem,zem,TRUE,a zem.
+XS_1639,61.4,it's a purple ball.,ball,ball,2,TRUE,0,,0.099943604,ball,ball,TRUE,it's a purple ball.
+XS_1639,61.4,it's a purple ball.,ball,zem,2,FALSE,,0,0.919444591,ball,zem,FALSE,it's a purple ball.
+XS_1639,71.6,a purple ball.,ball,zem,1,FALSE,,0,0.007615887,ball,zem,FALSE,a purple ball.
+XS_1639,90.2,this is a nice brush.,brush,brush,1,TRUE,,,0.031326518,brush,brush,TRUE,this is a nice brush.
+XS_1639,99.5,look it's a car.,car,car,1,TRUE,,,0.749684864,car,car,TRUE,look it's a car.
+XS_1639,107.8,a car.,car,tima,2,FALSE,,,0.322561305,car,tima,FALSE,a car.
+XS_1639,107.8,a car.,car,zem,2,FALSE,,1,0.416783157,car,blicket,FALSE,a car.
+XS_1639,114.8,this is a tima.,tima,tima,1,TRUE,,,0.091688562,tima,tima,TRUE,this is a tima.
+XS_1639,117.9,do you want to see what the car does?,car,tima,1,FALSE,,,0.565844813,car,tima,FALSE,do you want to see what the car does?
+XS_1639,153.6,oh you want the brush.,brush,brush,1,TRUE,,,0.274259253,brush,brush,TRUE,oh you want the brush.
+XS_1639,155.1,brush.,brush,brush,1,TRUE,,,0.360577862,brush,brush,TRUE,brush.
+XS_1639,158.8,brush your hair.,brush,car,1,FALSE,,,0.655070711,brush,car,FALSE,brush your hair.
+XS_1639,160.7,brush your hair.,brush,car,1,FALSE,,,0.746695455,brush,car,FALSE,brush your hair.
+XS_1639,279.2,oh let's get the ball.,ball,zem,1,FALSE,,0,0.202860491,ball,zem,FALSE,oh let's get the ball.
+XS_1639,280.7,let's get the ball.,ball,zem,1,FALSE,,0,0.228446499,ball,zem,FALSE,let's get the ball.
+XS_1639,282.1,ball.,ball,zem,1,FALSE,,0,0.145017502,ball,zem,FALSE,ball.
+XS_1639,288.9,ball and the manu.,manu,ball,1,FALSE,0,,0.96532999,manu,ball,FALSE,ball and the manu.
+XS_1639,346.5,get the ball.,ball,ball,1,TRUE,0,,0.422429229,ball,ball,TRUE,get the ball.
+XS_1639,351,can you throw the ball to mama?,ball,tima,1,FALSE,,,0.285978451,ball,tima,FALSE,can you throw the ball to mama?
+XS_1639,354.6,throw the ball to mommy.,ball,tima,1,FALSE,,,0.843911396,ball,tima,FALSE,throw the ball to mommy.
+XS_1639,358.5,throw the ball to mama.,ball,tima,1,FALSE,,,0.716139607,ball,tima,FALSE,throw the ball to mama.
+XS_1639,361.3,you're gonna do brush for mama?,brush,tima,1,FALSE,,,0.988275917,brush,tima,FALSE,you're gonna do brush for mama?
+XS_1639,364.5,brush mama's hair.,brush,tima,1,FALSE,,,0.975951183,brush,tima,FALSE,brush mama's hair.
+XS_1639,371.7,can you get the ball?,ball,ball,2,TRUE,1,,0.628663598,wug,wug,TRUE,can you get the wug?
+XS_1639,371.7,can you get the ball?,ball,tima,2,FALSE,,,0.025216704,ball,tima,FALSE,can you get the ball?
+XS_1639,373.3,you see the ball?,ball,ball,2,TRUE,1,,0.666225442,wug,wug,TRUE,you see the wug?
+XS_1639,373.3,you see the ball?,ball,tima,2,FALSE,,,0.912087972,ball,tima,FALSE,you see the ball?
+XS_1639,394.2,purple ball.,ball,manu,1,FALSE,,,0.632291381,ball,manu,FALSE,purple ball.
+XS_1639,399.5,purple ball.,ball,manu,1,FALSE,,,0.543686192,ball,manu,FALSE,purple ball.
+XS_1639,401.4,you can brush your hair.,brush,zem,1,FALSE,,0,0.668932076,brush,zem,FALSE,you can brush your hair.
+XS_1639,403.2,brush mama's hair.,brush,zem,1,FALSE,,0,0.112531557,brush,zem,FALSE,brush mama's hair.
+XS_1639,407,brush brush.,brush,brush,1,TRUE,,,0.216497012,brush,brush,TRUE,brush brush.
+XS_1639,407.8,brush brush.,brush,brush,1,TRUE,,,0.408713484,brush,brush,TRUE,brush brush.
+XS_1639,408.1,brush brush.,brush,brush,1,TRUE,,,0.178056163,brush,brush,TRUE,brush brush.
+XS_1639,409.1,brush brush.,brush,brush,1,TRUE,,,0.033367271,brush,brush,TRUE,brush brush.
+XS_1639,409.4,brush brush.,brush,brush,1,TRUE,,,0.198193866,brush,brush,TRUE,brush brush.
+XS_1639,440.5,do you like the zem?,zem,car,1,FALSE,,,0.689612951,zem,car,FALSE,do you like the zem?
+XS_1639,462.6,oh that's the brush.,brush,brush,1,TRUE,,,0.850027846,brush,brush,TRUE,oh that's the brush.
+XS_1639,531.2,let's get the zem.,zem,zem,1,TRUE,,1,0.554167475,blicket,blicket,TRUE,let's get the blicket.
+XS_1639,549,can you get the ball?,ball,zem,1,FALSE,,1,0.630185779,ball,blicket,FALSE,can you get the ball?
+XS_1639,649.9,where'd the ball go?,ball,ball,1,TRUE,0,,0.29188321,ball,ball,TRUE,where'd the ball go?
+XS_1639,655.2,ball.,ball,ball,1,TRUE,1,,0.419729357,wug,wug,TRUE,wug.
+XS_1639,671.7,where's the ball?,ball,ball,1,TRUE,1,,0.046714809,wug,wug,TRUE,where's the wug?
+XS_1639,673.2,where's the ball?,ball,ball,1,TRUE,1,,0.223553729,wug,wug,TRUE,where's the wug?
+XS_1639,712,tima.,tima,tima,1,TRUE,,,0.77637001,tima,tima,TRUE,tima.
+XS_1639,726.1,oh the tima.,tima,manu,1,FALSE,,,0.129699867,tima,manu,FALSE,oh the tima.
+XS_1639,825.5,here comes purple ball.,ball,ball,1,TRUE,1,,0.790114634,wug,wug,TRUE,here comes purple wug.
+XS_1639,827.6,purple ball.,ball,ball,1,TRUE,1,,0.650104335,wug,wug,TRUE,purple wug.
+XS_1639,840.7,can you throw the ball?,ball,manu,1,FALSE,,,0.560156981,ball,manu,FALSE,can you throw the ball?
+XS_1639,843.2,throw me the ball.,ball,manu,1,FALSE,,,0.198058659,ball,manu,FALSE,throw me the ball.
+XS_1639,882.8,kick the ball.,ball,car,1,FALSE,,,0.996991335,ball,car,FALSE,kick the ball.

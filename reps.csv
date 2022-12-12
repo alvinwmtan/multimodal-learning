@@ -1,0 +1,13 @@
+img_path,utterance,txt_label,img_label,txt_label_int,img_label_int,mat_label
+frame-extraction/frames/XS_0825/ball/4.4.jpg,.,,ball,7,0,FALSE
+frame-extraction/frames/XS_1201/brush/266.4.jpg,.,,brush,7,1,FALSE
+frame-extraction/frames/XS_0826/car/270.1.jpg,.,,car,7,2,FALSE
+frame-extraction/frames/XS_1629/manu/630.7.jpg,.,,manu,7,3,FALSE
+frame-extraction/frames/XS_1628/tima/848.9.jpg,.,,tima,7,4,FALSE
+frame-extraction/frames/XS_1211/zem/570.8.jpg,.,,zem,7,5,FALSE
+frame-extraction/grey.jpg,ball.,ball,,0,7,FALSE
+frame-extraction/grey.jpg,brush.,brush,,1,7,FALSE
+frame-extraction/grey.jpg,car.,car,,2,7,FALSE
+frame-extraction/grey.jpg,manu.,manu,,3,7,FALSE
+frame-extraction/grey.jpg,tima.,tima,,4,7,FALSE
+frame-extraction/grey.jpg,zem.,zem,,5,7,FALSE
